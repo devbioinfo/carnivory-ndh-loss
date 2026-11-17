@@ -4,6 +4,8 @@ title: "Carnivorous plants lose the chloroplast NDH complex repeatedly, irrevers
 version: 1.0.0
 date-released: 2026-11-18
 license: MIT
+doi: 10.5281/zenodo.24325802
+repository-code: "https://github.com/devbioinfo/carnivory-ndh-loss"
 authors:
   - family-names: Konhar
     given-names: Ruchishree

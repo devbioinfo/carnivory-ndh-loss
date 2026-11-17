@@ -1,8 +1,10 @@
 # Carnivorous plants lose the chloroplast NDH complex repeatedly, irreversibly and at parasite-like rates
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24325802.svg)](https://doi.org/10.5281/zenodo.24325802)
+
 Code, data and results for:
 
-> Konhar, R. & Biswal, D. K. Carnivorous plants lose the chloroplast NDH complex repeatedly, irreversibly and at parasite-like rates. (manuscript in preparation for *Nature Ecology & Evolution*)
+> Konhar, R. & Biswal, D. K. Carnivorous plants lose the chloroplast NDH complex repeatedly, irreversibly and at parasite-like rates. Submitted to *Nature Ecology & Evolution* (2026).
 
 Corresponding author: Devendra Kumar Biswal (devbioinfo@gmail.com), North-Eastern Hill University, Shillong, India.
 
@@ -21,7 +23,7 @@ Corresponding author: Devendra Kumar Biswal (devbioinfo@gmail.com), North-Easter
 | `scripts/` | All analysis code, in pipeline order (see below) |
 | `figures/` | Main Figures 1–6 and Extended Data Figures 1–10 (vector PDF, 183 mm wide) |
 
-High-resolution TIFF versions of the figures are archived with the Zenodo release.
+High-resolution TIFF versions of the figures accompany the journal submission.
 
 ## Pipeline
 
@@ -44,4 +46,8 @@ Code: MIT licence (`LICENSE`). Data, results and figures: Creative Commons Attri
 
 ## Citation
 
-See `CITATION.cff`. The Zenodo DOI will be added here once the archive is minted.
+Please cite the archived release:
+
+> Konhar, R. & Biswal, D. K. (2026). *Carnivorous plants lose the chloroplast NDH complex repeatedly, irreversibly and at parasite-like rates: code, data and results* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24325802
+
+See also `CITATION.cff` (GitHub's "Cite this repository" button).
