@@ -44,17 +44,16 @@ for i, reg in enumerate(show):
         ax.plot([0.12, i - 0.28], [med['autotrophic']] * 2, color=S.INK3, lw=0.5, ls=(0, (2, 1.5)))
         ax.text(i - 0.33, (q[1] + med['autotrophic']) / 2, f'{rq[1]:.0f}×\n({rq[0]:.0f}–{rq[2]:.0f})', ha='right', va='center', fontsize=6.2, color=S.INK, fontweight='bold', linespacing=1.1)
 ax.set_xticks(range(len(show))); ax.set_xticklabels([S.LABEL[r] for r in show])
-for i, (k_, c_) in enumerate([('autotroph', S.C['autotrophic']), ('sundew', S.C['carnivorous']), ('hemiparasite', S.C['parasitic'])]): I.icon_in(ax, k_, [i / 3 + 0.2, 0.02, 0.1, 0.17], c_)
-ax.text(0.98, 0.97, 'dot: median; thick: IQR; thin: 95% interval\nbold: fold change vs autotrophs (95% interval)', transform=ax.transAxes, ha='right', va='top', fontsize=5.0, color=S.INK3)
+for i, (k_, c_) in enumerate([('autotroph', S.C['autotrophic']), ('sundew', S.C['carnivorous']), ('hemiparasite', S.C['parasitic'])]): I.icon_in(ax, k_, [i / 3 + 0.2, 0.02, 0.09, 0.13], c_)
+ax.text(0.02, 0.805, 'dot: median; thick bar: IQR; thin bar: 95% interval\nbold numbers: fold change vs autotrophs (95% interval)', transform=ax.transAxes, ha='left', va='top', fontsize=5.6, color=S.INK3, linespacing=1.25, bbox=dict(fc='white', ec='none', pad=0.6))
 ax.set_ylabel('ndh loss rate (events per lineage-Myr)')
-ticks = [-4, -3, -2, -1]; ax.set_yticks(ticks); ax.set_yticklabels(['$10^{%d}$' % t for t in ticks]); ax.set_ylim(-4.2, -0.9)
+ticks = [-4, -3, -2, -1]; ax.set_yticks(ticks); ax.set_yticklabels(['$10^{%d}$' % t for t in ticks]); ax.set_ylim(-4.2, -0.15)
 ax.yaxis.grid(True, color=S.GRID, lw=0.4); ax.set_axisbelow(True)
 ax.text(0.02, 0.97, r'$\hat{\lambda}_r=N_r\,/\,T_r$', transform=ax.transAxes, va='top', fontsize=7.5)
-ax.text(0.02, 0.86, r'$N_r$: losses in regime $r$;  $T_r$: time intact in $r$', transform=ax.transAxes, va='top', fontsize=5.8, color=S.INK2)
+ax.text(0.02, 0.895, r'$N_r$: losses in regime $r$;  $T_r$: time intact in $r$', transform=ax.transAxes, va='top', fontsize=5.8, color=S.INK2)
 he = np.median(expo['holoparasitic']); me = np.median(expo['full_mycoheterotroph']) + np.median(expo['partial_mycoheterotroph'])
-ax.text(0.98, 0.03, f'Holoparasites: ndh lost before\nholoparasitism. Mycoheterotrophs:\n{me:.1f} Myr exposure; not estimated',
-        transform=ax.transAxes, ha='right', va='bottom', fontsize=5.3, color=S.INK2)
-ax.texts[-1].set_position((0.98, 0.205))
+ax.text(0.98, 0.165, f'Not estimated: holoparasites\n(ndh lost before holoparasitism);\nmycoheterotrophs ({me:.1f} Myr exposure)',
+        transform=ax.transAxes, ha='right', va='bottom', fontsize=5.3, color=S.INK2, linespacing=1.2)
 ax.set_title(f'Posterior loss rates from {nsim} paired stochastic maps', loc='left', color=S.INK2, fontsize=6.5)
 
 # ---- B: cumulative independent losses through time --------------------------------------------
