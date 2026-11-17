@@ -1,0 +1,85 @@
+{
+ "reads": 4000000,
+ "fu:ndhF": {
+  "mean_depth": 0.4,
+  "frac_bp_covered": 0.082,
+  "bp_where_majority_of_reads_disagree": 5,
+  "pct_bp_disagree": 0.22,
+  "reads": 9,
+  "frac_reads_ge99": 0.0
+ },
+ "fu:ndhD": {
+  "mean_depth": 6.2,
+  "frac_bp_covered": 0.596,
+  "bp_where_majority_of_reads_disagree": 30,
+  "pct_bp_disagree": 1.97,
+  "reads": 106,
+  "frac_reads_ge99": 0.0
+ },
+ "fu:ndhG": {
+  "mean_depth": 3.5,
+  "frac_bp_covered": 0.808,
+  "bp_where_majority_of_reads_disagree": 10,
+  "pct_bp_disagree": 1.88,
+  "reads": 21,
+  "frac_reads_ge99": 0.0
+ },
+ "fu:SSC": {
+  "mean_depth": 6.5,
+  "frac_bp_covered": 0.315,
+  "bp_where_majority_of_reads_disagree": 167,
+  "pct_bp_disagree": 0.92,
+  "reads": 1310,
+  "frac_reads_ge99": 0.013
+ },
+ "fu:LSC": {
+  "mean_depth": 327.9,
+  "frac_bp_covered": 0.943,
+  "bp_where_majority_of_reads_disagree": 74,
+  "pct_bp_disagree": 0.09,
+  "reads": 309045,
+  "frac_reads_ge99": 0.765
+ },
+ "fu:junction_spanning_reads(>=99%,\u00b140bp)": {},
+ "chang:ndhF": {
+  "mean_depth": 4.2,
+  "frac_bp_covered": 0.696,
+  "bp_where_majority_of_reads_disagree": 4,
+  "pct_bp_disagree": 0.18,
+  "reads": 107,
+  "frac_reads_ge99": 0.505
+ },
+ "chang:ndhD": {
+  "mean_depth": 14.0,
+  "frac_bp_covered": 0.94,
+  "bp_where_majority_of_reads_disagree": 0,
+  "pct_bp_disagree": 0.0,
+  "reads": 237,
+  "frac_reads_ge99": 0.764
+ },
+ "chang:ndhG": {
+  "mean_depth": 9.0,
+  "frac_bp_covered": 1.0,
+  "bp_where_majority_of_reads_disagree": 0,
+  "pct_bp_disagree": 0.0,
+  "reads": 59,
+  "frac_reads_ge99": 0.814
+ },
+ "chang:SSC_IRexp": {
+  "mean_depth": 63.7,
+  "frac_bp_covered": 0.859,
+  "bp_where_majority_of_reads_disagree": 9,
+  "pct_bp_disagree": 0.04,
+  "reads": 15579,
+  "frac_reads_ge99": 0.625
+ },
+ "chang:LSC": {
+  "mean_depth": 327.5,
+  "frac_bp_covered": 0.943,
+  "bp_where_majority_of_reads_disagree": 83,
+  "pct_bp_disagree": 0.1,
+  "reads": 308680,
+  "frac_reads_ge99": 0.766
+ },
+ "chang:junction_spanning_reads(>=99%,\u00b140bp)": {}
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Carnivorous plants lose the chloroplast NDH complex repeatedly, irreversibly and at parasite-like rates: code, data and results",
+  "upload_type": "software",
+  "description": "Analysis code, curated data, intermediate results and figures for a phylogenomic study of plastid ndh gene loss across 311 plastomes, with fossil-calibrated dating, trait-dependent models and a nuclear survey of 22 genomes.",
+  "creators": [
+    {"name": "Konhar, Ruchishree", "affiliation": "North-Eastern Hill University, Shillong, India"},
+    {"name": "Biswal, Devendra Kumar", "affiliation": "North-Eastern Hill University, Shillong, India"}
+  ],
+  "license": "MIT",
+  "keywords": ["carnivorous plants", "plastome", "NDH complex", "cyclic electron flow", "phylogenomics", "molecular dating"],
+  "grants": [],
+  "notes": "Supported by the Department of Biotechnology, Government of India (BT/BII04/035/98; BT/PR40263/BITS/137/80/2023). Data and figures are released under CC BY 4.0."
+}

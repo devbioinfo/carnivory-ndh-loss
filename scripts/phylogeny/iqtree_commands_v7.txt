@@ -1,0 +1,20 @@
+[23:27] lane B started in background (progress: logs/laneB_progress.txt)
+[23:27] start ml295_r1 (10 threads)
+[04:53] done  ml295_r1
+[23:27] start c_H3 (4 threads)
+[00:44] done  c_H3
+[00:44] start c_H4 (4 threads)
+[01:56] done  c_H4
+[01:56] start c_H5 (4 threads)
+[03:08] done  c_H5
+[03:08] start c_H6 (4 threads)
+[04:12] done  c_H6
+[04:53] start topotest295 (14 threads)
+[04:54] done  topotest295
+[04:54] start loci295 (14 threads)
+[05:50] done  loci295
+[05:50] start gcf295 (14 threads)
+[05:50] done  gcf295
+[05:50] start scfl295 (14 threads)
+[05:52] done  scfl295
+All done 05:52. Zip the 'out' and 'logs' folders plus versions.txt and upload them.

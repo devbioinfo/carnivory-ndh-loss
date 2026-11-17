@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Carnivorous plants lose the chloroplast NDH complex repeatedly, irreversibly and at parasite-like rates: code, data and results"
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+authors:
+  - family-names: Konhar
+    given-names: Ruchishree
+    affiliation: "Biodiversity Informatics Centre, North-Eastern Hill University, Shillong, India"
+  - family-names: Biswal
+    given-names: Devendra Kumar
+    affiliation: "Biodiversity Informatics Centre and Department of Zoology, North-Eastern Hill University, Shillong, India"
+    email: devbioinfo@gmail.com
+keywords: [carnivorous plants, plastome, NDH complex, cyclic electron flow, phylogenomics, molecular dating, comparative methods]

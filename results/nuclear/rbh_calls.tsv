@@ -1,0 +1,577 @@
+species	nutrition	family	gene	call	hit	query_cov	pident
+Drosera_rotundifolia	carnivorous	Droseraceae	ndhL|AT1G70760	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	ndhM|AT4G37925	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	ndhN|AT5G58260	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	ndhO|AT1G74880	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	ndhS|AT4G23890	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	ndhT|AT4G09350	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	ndhU|AT5G21430	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	PnsB1_NDF1|AT1G15980	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	PnsB2_NDF2|AT1G64770	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	PnsB3_NDF4|AT3G16250	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	PnsB4_NDF6|AT1G18730	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	PnsB5_NDH18|AT5G43750	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	PnsL2|AT1G14150	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	PnsL3|AT3G01440	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	PnsL4_FKBP16-2|AT4G39710	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	PnsL5_CYP20-2|AT5G13120	present	GAB2220369.1	0.71	82.162
+Drosera_rotundifolia	carnivorous	Droseraceae	Lhca5|AT1G45474	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	Lhca6|AT1G19150	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	CRR1|AT5G52100	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	CRR3|AT2G01590	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	CRR6|AT2G47910	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	CRR7|AT5G39210	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	NDF5|AT1G55370	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	CRR2|AT3G46790	present	GAB2235006.1	0.92	61.576
+Drosera_rotundifolia	carnivorous	Droseraceae	CRR4|AT2G45350	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	CRR21|AT5G55740	absent		0	0
+Drosera_rotundifolia	carnivorous	Droseraceae	CRR22|AT1G11290	present	GAB2211386.1	0.83	53.125
+Drosera_rotundifolia	carnivorous	Droseraceae	CRR28|AT1G59720	present	GAB2233250.1	0.93	40.333
+Drosera_rotundifolia	carnivorous	Droseraceae	PGR5|AT2G05620	present	GAB2217778.1	0.78	72.642
+Drosera_rotundifolia	carnivorous	Droseraceae	PGRL1A|AT4G22890	present	GAB2224579.1	0.82	76.493
+Drosera_rotundifolia	carnivorous	Droseraceae	PGRL1B|AT4G11960	present	GAB2224579.1	0.85	76.493
+Drosera_rotundifolia	carnivorous	Droseraceae	PsaD1|AT4G02770	present	GAB2234533.1	1.0	72.038
+Drosera_rotundifolia	carnivorous	Droseraceae	PetC|AT4G03280	present	GAB2214984.1	1.0	67.382
+Drosera_rotundifolia	carnivorous	Droseraceae	PsbO1|AT5G66570	present	GAB2223996.1	1.0	73.574
+Drosera_rotundifolia	carnivorous	Droseraceae	RbcS1A|AT1G67090	present	GAB2232917.1	0.94	61.176
+Dionaea_muscipula	carnivorous	Droseraceae	ndhL|AT1G70760	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	ndhM|AT4G37925	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	ndhN|AT5G58260	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	ndhO|AT1G74880	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	ndhS|AT4G23890	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	ndhT|AT4G09350	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	ndhU|AT5G21430	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	PnsB1_NDF1|AT1G15980	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	PnsB2_NDF2|AT1G64770	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	PnsB3_NDF4|AT3G16250	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	PnsB4_NDF6|AT1G18730	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	PnsB5_NDH18|AT5G43750	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	PnsL2|AT1G14150	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	PnsL3|AT3G01440	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	PnsL4_FKBP16-2|AT4G39710	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	PnsL5_CYP20-2|AT5G13120	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	Lhca5|AT1G45474	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	Lhca6|AT1G19150	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	CRR1|AT5G52100	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	CRR3|AT2G01590	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	CRR6|AT2G47910	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	CRR7|AT5G39210	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	NDF5|AT1G55370	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	CRR2|AT3G46790	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	CRR4|AT2G45350	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	CRR21|AT5G55740	absent		0	0
+Dionaea_muscipula	carnivorous	Droseraceae	CRR22|AT1G11290	present	GAB2277704.1	0.77	56.309
+Dionaea_muscipula	carnivorous	Droseraceae	CRR28|AT1G59720	present	GAB2267008.1	0.94	41.396
+Dionaea_muscipula	carnivorous	Droseraceae	PGR5|AT2G05620	present	GAB2265895.1	1.0	66.165
+Dionaea_muscipula	carnivorous	Droseraceae	PGRL1A|AT4G22890	present	GAB2300929.1	0.86	73.31
+Dionaea_muscipula	carnivorous	Droseraceae	PGRL1B|AT4G11960	present	GAB2300929.1	0.89	74.733
+Dionaea_muscipula	carnivorous	Droseraceae	PsaD1|AT4G02770	present	GAB2289238.1	0.7	91.724
+Dionaea_muscipula	carnivorous	Droseraceae	PetC|AT4G03280	present	GAB2274842.1	1.0	73.16
+Dionaea_muscipula	carnivorous	Droseraceae	PsbO1|AT5G66570	present	GAB2279701.1	0.97	74.699
+Dionaea_muscipula	carnivorous	Droseraceae	RbcS1A|AT1G67090	present	GAB2299985.1	0.94	59.884
+Nepenthes_gracilis	carnivorous	Nepenthaceae	ndhL|AT1G70760	present	GMH15165.1	0.92	53.297
+Nepenthes_gracilis	carnivorous	Nepenthaceae	ndhM|AT4G37925	present	GMH21595.1	0.94	63.981
+Nepenthes_gracilis	carnivorous	Nepenthaceae	ndhN|AT5G58260	present	GMH00241.1	0.79	78.571
+Nepenthes_gracilis	carnivorous	Nepenthaceae	ndhO|AT1G74880	present	GMH06693.1	0.97	65.385
+Nepenthes_gracilis	carnivorous	Nepenthaceae	ndhS|AT4G23890	present	GMH22642.1	0.96	52.459
+Nepenthes_gracilis	carnivorous	Nepenthaceae	ndhT|AT4G09350	present	GMH00334.1	0.87	67.421
+Nepenthes_gracilis	carnivorous	Nepenthaceae	ndhU|AT5G21430	present	GMH12393.1	0.78	60.234
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PnsB1_NDF1|AT1G15980	present	GMH22160.1	0.93	72.558
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PnsB2_NDF2|AT1G64770	present	GMH08245.1	0.78	56.463
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PnsB3_NDF4|AT3G16250	present	GMH03713.1	0.98	59.512
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PnsB4_NDF6|AT1G18730	present	GMH21927.1	1.0	56.684
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PnsB5_NDH18|AT5G43750	present	GMH08501.1	1.0	56.019
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PnsL2|AT1G14150	present	GMH01742.1	0.9	52.841
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PnsL3|AT3G01440	present	GMH05702.1	0.68	60.0
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PnsL4_FKBP16-2|AT4G39710	present	GMH17350.1	0.77	73.653
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PnsL5_CYP20-2|AT5G13120	present	GMH27412.1	0.99	66.537
+Nepenthes_gracilis	carnivorous	Nepenthaceae	Lhca5|AT1G45474	present	GMH13810.1	0.83	81.221
+Nepenthes_gracilis	carnivorous	Nepenthaceae	Lhca6|AT1G19150	present	GMH13767.1	1.0	71.852
+Nepenthes_gracilis	carnivorous	Nepenthaceae	CRR1|AT5G52100	present	GMH19657.1	0.97	75.601
+Nepenthes_gracilis	carnivorous	Nepenthaceae	CRR3|AT2G01590	present	GMH15164.1	0.63	45.045
+Nepenthes_gracilis	carnivorous	Nepenthaceae	CRR6|AT2G47910	present	GMH27302.1	0.83	73.301
+Nepenthes_gracilis	carnivorous	Nepenthaceae	CRR7|AT5G39210	partial	GMH15131.1	0.28	65.116
+Nepenthes_gracilis	carnivorous	Nepenthaceae	NDF5|AT1G55370	present	GMH18755.1	0.95	42.593
+Nepenthes_gracilis	carnivorous	Nepenthaceae	CRR2|AT3G46790	present	GMH12734.1	0.99	68.043
+Nepenthes_gracilis	carnivorous	Nepenthaceae	CRR4|AT2G45350	present	GMH00596.1	0.99	58.033
+Nepenthes_gracilis	carnivorous	Nepenthaceae	CRR21|AT5G55740	present	GMH04610.1	0.99	52.976
+Nepenthes_gracilis	carnivorous	Nepenthaceae	CRR22|AT1G11290	present	GMG99526.1	0.99	64.956
+Nepenthes_gracilis	carnivorous	Nepenthaceae	CRR28|AT1G59720	present	GMH01676.1	0.94	59.804
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PGR5|AT2G05620	present	GMH19920.1	0.86	71.186
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PGRL1A|AT4G22890	present	GMH28887.1	0.86	76.868
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PGRL1B|AT4G11960	present	GMH28887.1	0.89	78.292
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PsaD1|AT4G02770	present	GMH28007.1	0.7	91.781
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PetC|AT4G03280	present	GMG98637.1	0.81	70.745
+Nepenthes_gracilis	carnivorous	Nepenthaceae	PsbO1|AT5G66570	present	GMH06452.1	1.0	79.819
+Nepenthes_gracilis	carnivorous	Nepenthaceae	RbcS1A|AT1G67090	present	GMH27192.1	0.97	64.246
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	ndhL|AT1G70760	present	GAB4863309.1	0.97	55.263
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	ndhM|AT4G37925	present	GAB4880809.1	0.94	63.725
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	ndhN|AT5G58260	present	GAB4865984.1	0.89	73.545
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	ndhO|AT1G74880	present	GAB4869950.1	0.72	72.5
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	ndhS|AT4G23890	present	GAB4877475.1	0.96	53.571
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	ndhT|AT4G09350	present	GAB4880274.1	0.82	66.346
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	ndhU|AT5G21430	present	GAB4888557.1	0.92	53.659
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PnsB1_NDF1|AT1G15980	present	GAB4886649.1	0.98	71.179
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PnsB2_NDF2|AT1G64770	present	GAB4886039.1	0.78	58.0
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PnsB3_NDF4|AT3G16250	present	GAB4886479.1	0.88	63.128
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PnsB4_NDF6|AT1G18730	present	GAB4879773.1	0.73	77.165
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PnsB5_NDH18|AT5G43750	present	GAB4870827.1	1.0	60.0
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PnsL2|AT1G14150	present	GAB4863479.1	0.74	50.0
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PnsL3|AT3G01440	present	GAB4864097.1	1.0	47.534
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PnsL4_FKBP16-2|AT4G39710	present	GAB4864740.1	0.99	61.883
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PnsL5_CYP20-2|AT5G13120	present	GAB4873340.1	0.99	67.954
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	Lhca5|AT1G45474	present	GAB4875123.1	0.84	81.308
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	Lhca6|AT1G19150	present	GAB4876117.1	1.0	71.852
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	CRR1|AT5G52100	present	GAB4886729.1	0.94	78.571
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	CRR3|AT2G01590	present	GAB4872846.1	0.97	38.764
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	CRR6|AT2G47910	present	GAB4879092.1	0.83	74.384
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	CRR7|AT5G39210	present	GAB4873258.1	0.97	44.872
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	NDF5|AT1G55370	present	GAB4870499.1	0.91	42.005
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	CRR2|AT3G46790	present	GAB4874687.1	0.92	71.334
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	CRR4|AT2G45350	present	GAB4880615.1	0.97	59.732
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	CRR21|AT5G55740	present	GAB4879225.1	0.99	54.237
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	CRR22|AT1G11290	present	GAB4889420.1	0.98	64.824
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	CRR28|AT1G59720	present	GAB4863576.1	0.96	59.615
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PGR5|AT2G05620	present	GAB4870945.1	0.98	69.63
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PGRL1A|AT4G22890	present	GAB4881638.1	0.86	77.5
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PGRL1B|AT4G11960	present	GAB4881638.1	0.89	78.929
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PsaD1|AT4G02770	present	GAB4871869.1	0.98	71.698
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PetC|AT4G03280	present	GAB4873174.1	1.0	72.458
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	PsbO1|AT5G66570	present	GAB4864569.1	1.0	78.614
+Triphyophyllum_peltatum	carnivorous	Dioncophyllaceae	RbcS1A|AT1G67090	present	GAB4884158.1	0.98	70.718
+Cephalotus_follicularis	carnivorous	Cephalotaceae	ndhL|AT1G70760	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	ndhM|AT4G37925	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	ndhN|AT5G58260	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	ndhO|AT1G74880	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	ndhS|AT4G23890	present	GAV65767.1	0.56	47.518
+Cephalotus_follicularis	carnivorous	Cephalotaceae	ndhT|AT4G09350	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	ndhU|AT5G21430	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PnsB1_NDF1|AT1G15980	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PnsB2_NDF2|AT1G64770	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PnsB3_NDF4|AT3G16250	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PnsB4_NDF6|AT1G18730	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PnsB5_NDH18|AT5G43750	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PnsL2|AT1G14150	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PnsL3|AT3G01440	partial	GAV91618.1	0.5	38.393
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PnsL4_FKBP16-2|AT4G39710	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PnsL5_CYP20-2|AT5G13120	present	GAV71327.1	0.69	86.592
+Cephalotus_follicularis	carnivorous	Cephalotaceae	Lhca5|AT1G45474	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	Lhca6|AT1G19150	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	CRR1|AT5G52100	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	CRR3|AT2G01590	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	CRR6|AT2G47910	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	CRR7|AT5G39210	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	NDF5|AT1G55370	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	CRR2|AT3G46790	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	CRR4|AT2G45350	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	CRR21|AT5G55740	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	CRR22|AT1G11290	present	GAV88616.1	1.0	62.005
+Cephalotus_follicularis	carnivorous	Cephalotaceae	CRR28|AT1G59720	absent		0	0
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PGR5|AT2G05620	present	GAV70618.1	0.89	78.814
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PGRL1A|AT4G22890	present	GAV89339.1	1.0	73.78
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PGRL1B|AT4G11960	present	GAV89339.1	0.9	79.787
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PsaD1|AT4G02770	present	GAV88213.1	0.89	82.162
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PetC|AT4G03280	present	GAV83282.1	0.98	78.414
+Cephalotus_follicularis	carnivorous	Cephalotaceae	PsbO1|AT5G66570	present	GAV68260.1	1.0	80.422
+Cephalotus_follicularis	carnivorous	Cephalotaceae	RbcS1A|AT1G67090	present	GAV68963.1	0.99	73.077
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	ndhL|AT1G70760	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	ndhM|AT4G37925	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	ndhN|AT5G58260	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	ndhO|AT1G74880	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	ndhS|AT4G23890	present	KAL6979454.1	0.56	52.143
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	ndhT|AT4G09350	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	ndhU|AT5G21430	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PnsB1_NDF1|AT1G15980	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PnsB2_NDF2|AT1G64770	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PnsB3_NDF4|AT3G16250	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PnsB4_NDF6|AT1G18730	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PnsB5_NDH18|AT5G43750	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PnsL2|AT1G14150	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PnsL3|AT3G01440	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PnsL4_FKBP16-2|AT4G39710	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PnsL5_CYP20-2|AT5G13120	present	KAL6983962.1	0.99	64.643
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	Lhca5|AT1G45474	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	Lhca6|AT1G19150	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	CRR1|AT5G52100	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	CRR3|AT2G01590	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	CRR6|AT2G47910	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	CRR7|AT5G39210	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	NDF5|AT1G55370	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	CRR2|AT3G46790	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	CRR4|AT2G45350	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	CRR21|AT5G55740	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	CRR22|AT1G11290	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	CRR28|AT1G59720	absent		0	0
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PGR5|AT2G05620	present	KAL6970606.1	0.98	69.925
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PGRL1A|AT4G22890	present	KAL6986123.1	1.0	70.245
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PGRL1B|AT4G11960	present	KAL6986123.1	0.99	73.668
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PsaD1|AT4G02770	present	KAL6971464.1	1.0	72.685
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PetC|AT4G03280	present	KAL7000272.1	1.0	76.623
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	PsbO1|AT5G66570	present	KAL6956572.1	1.0	77.711
+Sarracenia_purpurea	carnivorous	Sarraceniaceae	RbcS1A|AT1G67090	present	KAL6969857.1	1.0	65.761
+Utricularia_aurea	carnivorous	Lentibulariaceae	ndhL|AT1G70760	absent		0	0
+Utricularia_aurea	carnivorous	Lentibulariaceae	ndhM|AT4G37925	present	KAN3207369.1	0.73	75.309
+Utricularia_aurea	carnivorous	Lentibulariaceae	ndhN|AT5G58260	present	KAN3232411.1	0.85	75.281
+Utricularia_aurea	carnivorous	Lentibulariaceae	ndhO|AT1G74880	present	KAN3206875.1	1.0	59.88
+Utricularia_aurea	carnivorous	Lentibulariaceae	ndhS|AT4G23890	present	KAN3220663.1	0.89	55.556
+Utricularia_aurea	carnivorous	Lentibulariaceae	ndhT|AT4G09350	present	KAN3232341.1	0.88	60.09
+Utricularia_aurea	carnivorous	Lentibulariaceae	ndhU|AT5G21430	present	KAN3225536.1	1.0	46.33
+Utricularia_aurea	carnivorous	Lentibulariaceae	PnsB1_NDF1|AT1G15980	present	KAN3207040.1	0.98	69.631
+Utricularia_aurea	carnivorous	Lentibulariaceae	PnsB2_NDF2|AT1G64770	present	KAN3236744.1	0.78	54.983
+Utricularia_aurea	carnivorous	Lentibulariaceae	PnsB3_NDF4|AT3G16250	present	KAN3220600.1	0.6	79.675
+Utricularia_aurea	carnivorous	Lentibulariaceae	PnsB4_NDF6|AT1G18730	present	KAN3232280.1	0.91	62.893
+Utricularia_aurea	carnivorous	Lentibulariaceae	PnsB5_NDH18|AT5G43750	present	KAN3229710.1	0.92	54.327
+Utricularia_aurea	carnivorous	Lentibulariaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Utricularia_aurea	carnivorous	Lentibulariaceae	PnsL2|AT1G14150	present	KAN3211579.1	0.77	53.425
+Utricularia_aurea	carnivorous	Lentibulariaceae	PnsL3|AT3G01440	present	KAN3233295.1	0.8	56.983
+Utricularia_aurea	carnivorous	Lentibulariaceae	PnsL4_FKBP16-2|AT4G39710	present	KAN3229171.1	0.9	63.265
+Utricularia_aurea	carnivorous	Lentibulariaceae	PnsL5_CYP20-2|AT5G13120	present	KAN3223916.1	0.72	77.957
+Utricularia_aurea	carnivorous	Lentibulariaceae	Lhca5|AT1G45474	present	KAN3233409.1	0.84	77.57
+Utricularia_aurea	carnivorous	Lentibulariaceae	Lhca6|AT1G19150	present	KAN3216148.1	0.9	77.049
+Utricularia_aurea	carnivorous	Lentibulariaceae	CRR1|AT5G52100	present	KAN3219144.1	1.0	71.382
+Utricularia_aurea	carnivorous	Lentibulariaceae	CRR3|AT2G01590	present	KAN3230267.1	0.6	42.202
+Utricularia_aurea	carnivorous	Lentibulariaceae	CRR6|AT2G47910	present	KAN3229516.1	0.86	61.611
+Utricularia_aurea	carnivorous	Lentibulariaceae	CRR7|AT5G39210	present	KAN3235319.1	0.58	63.333
+Utricularia_aurea	carnivorous	Lentibulariaceae	NDF5|AT1G55370	present	KAN3233144.1	0.99	36.898
+Utricularia_aurea	carnivorous	Lentibulariaceae	CRR2|AT3G46790	present	KAN3227129.1	0.95	66.184
+Utricularia_aurea	carnivorous	Lentibulariaceae	CRR4|AT2G45350	present	KAN3223740.1	0.96	50.423
+Utricularia_aurea	carnivorous	Lentibulariaceae	CRR21|AT5G55740	absent		0	0
+Utricularia_aurea	carnivorous	Lentibulariaceae	CRR22|AT1G11290	present	KAN3230016.1	0.97	65.184
+Utricularia_aurea	carnivorous	Lentibulariaceae	CRR28|AT1G59720	present	KAN3226703.1	0.95	54.531
+Utricularia_aurea	carnivorous	Lentibulariaceae	PGR5|AT2G05620	present	KAN3216927.1	0.87	68.966
+Utricularia_aurea	carnivorous	Lentibulariaceae	PGRL1A|AT4G22890	present	KAN3218726.1	1.0	71.779
+Utricularia_aurea	carnivorous	Lentibulariaceae	PGRL1B|AT4G11960	present	KAN3218726.1	0.88	77.174
+Utricularia_aurea	carnivorous	Lentibulariaceae	PsaD1|AT4G02770	present	KAN3226659.1	1.0	69.811
+Utricularia_aurea	carnivorous	Lentibulariaceae	PetC|AT4G03280	present	KAN3231803.1	0.8	81.421
+Utricularia_aurea	carnivorous	Lentibulariaceae	PsbO1|AT5G66570	present	KAN3215385.1	1.0	76.205
+Utricularia_aurea	carnivorous	Lentibulariaceae	RbcS1A|AT1G67090	present	KAN3225768.1	0.97	68.571
+Utricularia_gibba	carnivorous	Lentibulariaceae	ndhL|AT1G70760	present	CAQ4186268.1	0.96	48.37
+Utricularia_gibba	carnivorous	Lentibulariaceae	ndhM|AT4G37925	present	CAQ4197930.1	0.82	68.333
+Utricularia_gibba	carnivorous	Lentibulariaceae	ndhN|AT5G58260	present	CAQ4056851.1	0.91	69.072
+Utricularia_gibba	carnivorous	Lentibulariaceae	ndhO|AT1G74880	present	CAQ4191437.1	1.0	60.366
+Utricularia_gibba	carnivorous	Lentibulariaceae	ndhS|AT4G23890	present	CAQ4203406.1	0.91	52.609
+Utricularia_gibba	carnivorous	Lentibulariaceae	ndhT|AT4G09350	present	CAQ4062027.1	0.76	68.783
+Utricularia_gibba	carnivorous	Lentibulariaceae	ndhU|AT5G21430	present	CAQ4123793.1	0.9	49.749
+Utricularia_gibba	carnivorous	Lentibulariaceae	PnsB1_NDF1|AT1G15980	present	CAQ3946868.1	0.98	71.116
+Utricularia_gibba	carnivorous	Lentibulariaceae	PnsB2_NDF2|AT1G64770	present	CAQ4148466.1	0.78	55.743
+Utricularia_gibba	carnivorous	Lentibulariaceae	PnsB3_NDF4|AT3G16250	present	CAQ4122523.1	0.9	60.215
+Utricularia_gibba	carnivorous	Lentibulariaceae	PnsB4_NDF6|AT1G18730	present	CAQ4063600.1	0.99	56.906
+Utricularia_gibba	carnivorous	Lentibulariaceae	PnsB5_NDH18|AT5G43750	present	CAQ4108306.1	0.82	64.74
+Utricularia_gibba	carnivorous	Lentibulariaceae	PnsL1_PPL2|AT2G39470	present	CAQ4184021.1	0.82	55.556
+Utricularia_gibba	carnivorous	Lentibulariaceae	PnsL2|AT1G14150	present	CAQ4178493.1	0.77	57.823
+Utricularia_gibba	carnivorous	Lentibulariaceae	PnsL3|AT3G01440	present	CAQ4161573.1	0.8	55.801
+Utricularia_gibba	carnivorous	Lentibulariaceae	PnsL4_FKBP16-2|AT4G39710	present	CAQ4109747.1	0.94	61.275
+Utricularia_gibba	carnivorous	Lentibulariaceae	PnsL5_CYP20-2|AT5G13120	present	CAQ4053393.1	0.98	62.403
+Utricularia_gibba	carnivorous	Lentibulariaceae	Lhca5|AT1G45474	present	CAQ4197549.1	0.84	78.972
+Utricularia_gibba	carnivorous	Lentibulariaceae	Lhca6|AT1G19150	present	CAQ4134376.1	0.83	81.166
+Utricularia_gibba	carnivorous	Lentibulariaceae	CRR1|AT5G52100	present	CAQ4081750.1	0.97	71.575
+Utricularia_gibba	carnivorous	Lentibulariaceae	CRR3|AT2G01590	present	CAQ4189008.1	0.75	41.481
+Utricularia_gibba	carnivorous	Lentibulariaceae	CRR6|AT2G47910	present	CAQ4161896.1	0.83	62.981
+Utricularia_gibba	carnivorous	Lentibulariaceae	CRR7|AT5G39210	present	CAQ4151844.1	0.71	57.658
+Utricularia_gibba	carnivorous	Lentibulariaceae	NDF5|AT1G55370	present	CAQ4163156.1	0.89	36.232
+Utricularia_gibba	carnivorous	Lentibulariaceae	CRR2|AT3G46790	present	CAQ4112207.1	0.94	66.019
+Utricularia_gibba	carnivorous	Lentibulariaceae	CRR4|AT2G45350	present	CAQ4145650.1	0.96	51.789
+Utricularia_gibba	carnivorous	Lentibulariaceae	CRR21|AT5G55740	absent		0	0
+Utricularia_gibba	carnivorous	Lentibulariaceae	CRR22|AT1G11290	present	CAQ4185563.1	0.99	64.09
+Utricularia_gibba	carnivorous	Lentibulariaceae	CRR28|AT1G59720	present	CAQ4190477.1	0.95	55.139
+Utricularia_gibba	carnivorous	Lentibulariaceae	PGR5|AT2G05620	present	CAQ4202857.1	0.87	69.828
+Utricularia_gibba	carnivorous	Lentibulariaceae	PGRL1A|AT4G22890	present	CAQ3913846.1	1.0	70.336
+Utricularia_gibba	carnivorous	Lentibulariaceae	PGRL1B|AT4G11960	present	CAQ3913846.1	0.88	77.174
+Utricularia_gibba	carnivorous	Lentibulariaceae	PsaD1|AT4G02770	present	CAQ4102208.1	1.0	71.564
+Utricularia_gibba	carnivorous	Lentibulariaceae	PetC|AT4G03280	present	CAQ4028526.1	0.81	80.541
+Utricularia_gibba	carnivorous	Lentibulariaceae	PsbO1|AT5G66570	present	CAQ4016407.1	1.0	77.108
+Utricularia_gibba	carnivorous	Lentibulariaceae	RbcS1A|AT1G67090	present	CAQ3977864.1	0.97	69.663
+Genlisea_aurea	carnivorous	Lentibulariaceae	ndhL|AT1G70760	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	ndhM|AT4G37925	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	ndhN|AT5G58260	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	ndhO|AT1G74880	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	ndhS|AT4G23890	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	ndhT|AT4G09350	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	ndhU|AT5G21430	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PnsB1_NDF1|AT1G15980	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PnsB2_NDF2|AT1G64770	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PnsB3_NDF4|AT3G16250	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PnsB4_NDF6|AT1G18730	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PnsB5_NDH18|AT5G43750	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PnsL2|AT1G14150	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PnsL3|AT3G01440	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PnsL4_FKBP16-2|AT4G39710	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PnsL5_CYP20-2|AT5G13120	present	EPS61726.1	0.66	62.941
+Genlisea_aurea	carnivorous	Lentibulariaceae	Lhca5|AT1G45474	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	Lhca6|AT1G19150	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	CRR1|AT5G52100	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	CRR3|AT2G01590	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	CRR6|AT2G47910	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	CRR7|AT5G39210	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	NDF5|AT1G55370	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	CRR2|AT3G46790	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	CRR4|AT2G45350	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	CRR21|AT5G55740	absent		0	0
+Genlisea_aurea	carnivorous	Lentibulariaceae	CRR22|AT1G11290	present	EPS57776.1	0.97	58.651
+Genlisea_aurea	carnivorous	Lentibulariaceae	CRR28|AT1G59720	present	EPS60114.1	0.91	40.517
+Genlisea_aurea	carnivorous	Lentibulariaceae	PGR5|AT2G05620	present	EPS58843.1	0.56	90.667
+Genlisea_aurea	carnivorous	Lentibulariaceae	PGRL1A|AT4G22890	present	EPS59985.1	1.0	69.231
+Genlisea_aurea	carnivorous	Lentibulariaceae	PGRL1B|AT4G11960	present	EPS59985.1	0.97	70.0
+Genlisea_aurea	carnivorous	Lentibulariaceae	PsaD1|AT4G02770	present	EPS62726.1	0.69	90.21
+Genlisea_aurea	carnivorous	Lentibulariaceae	PetC|AT4G03280	present	EPS66169.1	0.8	80.435
+Genlisea_aurea	carnivorous	Lentibulariaceae	PsbO1|AT5G66570	present	EPS61846.1	1.0	76.205
+Genlisea_aurea	carnivorous	Lentibulariaceae	RbcS1A|AT1G67090	present	EPS63610.1	0.88	71.069
+Beta_vulgaris	autotrophic	Amaranthaceae	ndhL|AT1G70760	present	XP_010665936.1	0.67	58.594
+Beta_vulgaris	autotrophic	Amaranthaceae	ndhM|AT4G37925	present	XP_057249555.1	0.94	63.81
+Beta_vulgaris	autotrophic	Amaranthaceae	ndhN|AT5G58260	present	XP_010675306.1	0.83	76.705
+Beta_vulgaris	autotrophic	Amaranthaceae	ndhO|AT1G74880	present	XP_010680197.2	1.0	61.392
+Beta_vulgaris	autotrophic	Amaranthaceae	ndhS|AT4G23890	present	XP_010676290.1	0.98	56.627
+Beta_vulgaris	autotrophic	Amaranthaceae	ndhT|AT4G09350	present	XP_010679887.1	0.86	64.679
+Beta_vulgaris	autotrophic	Amaranthaceae	ndhU|AT5G21430	present	XP_010669327.2	0.73	59.748
+Beta_vulgaris	autotrophic	Amaranthaceae	PnsB1_NDF1|AT1G15980	present	XP_010667191.1	0.99	70.236
+Beta_vulgaris	autotrophic	Amaranthaceae	PnsB2_NDF2|AT1G64770	present	XP_010672059.2	0.79	53.918
+Beta_vulgaris	autotrophic	Amaranthaceae	PnsB3_NDF4|AT3G16250	present	XP_010691367.1	0.78	64.634
+Beta_vulgaris	autotrophic	Amaranthaceae	PnsB4_NDF6|AT1G18730	present	XP_010678485.1	1.0	62.032
+Beta_vulgaris	autotrophic	Amaranthaceae	PnsB5_NDH18|AT5G43750	present	XP_010681717.2	0.77	68.712
+Beta_vulgaris	autotrophic	Amaranthaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Beta_vulgaris	autotrophic	Amaranthaceae	PnsL2|AT1G14150	present	XP_010683142.1	0.9	57.542
+Beta_vulgaris	autotrophic	Amaranthaceae	PnsL3|AT3G01440	present	XP_010694269.2	1.0	51.055
+Beta_vulgaris	autotrophic	Amaranthaceae	PnsL4_FKBP16-2|AT4G39710	present	XP_010680586.2	0.94	60.488
+Beta_vulgaris	autotrophic	Amaranthaceae	PnsL5_CYP20-2|AT5G13120	present	XP_010682710.1	0.99	65.66
+Beta_vulgaris	autotrophic	Amaranthaceae	Lhca5|AT1G45474	present	XP_010675790.1	0.82	81.34
+Beta_vulgaris	autotrophic	Amaranthaceae	Lhca6|AT1G19150	present	XP_010687546.1	1.0	71.533
+Beta_vulgaris	autotrophic	Amaranthaceae	CRR1|AT5G52100	present	XP_010693499.2	1.0	76.51
+Beta_vulgaris	autotrophic	Amaranthaceae	CRR3|AT2G01590	present	XP_010680239.2	0.77	43.165
+Beta_vulgaris	autotrophic	Amaranthaceae	CRR6|AT2G47910	present	XP_057247254.1	0.6	64.0
+Beta_vulgaris	autotrophic	Amaranthaceae	CRR7|AT5G39210	present	XP_048494029.1	0.63	64.646
+Beta_vulgaris	autotrophic	Amaranthaceae	NDF5|AT1G55370	present	XP_010672060.1	0.94	40.267
+Beta_vulgaris	autotrophic	Amaranthaceae	CRR2|AT3G46790	present	XP_010685674.1	1.0	66.616
+Beta_vulgaris	autotrophic	Amaranthaceae	CRR4|AT2G45350	present	XP_019107734.1	0.97	57.647
+Beta_vulgaris	autotrophic	Amaranthaceae	CRR21|AT5G55740	present	XP_057249477.1	0.99	32.333
+Beta_vulgaris	autotrophic	Amaranthaceae	CRR22|AT1G11290	present	XP_010694640.2	1.0	63.916
+Beta_vulgaris	autotrophic	Amaranthaceae	CRR28|AT1G59720	present	XP_010683293.1	0.95	61.967
+Beta_vulgaris	autotrophic	Amaranthaceae	PGR5|AT2G05620	present	XP_010670950.2	1.0	70.677
+Beta_vulgaris	autotrophic	Amaranthaceae	PGRL1A|AT4G22890	present	XP_010676601.1	1.0	68.693
+Beta_vulgaris	autotrophic	Amaranthaceae	PGRL1B|AT4G11960	present	XP_010676601.1	0.91	74.035
+Beta_vulgaris	autotrophic	Amaranthaceae	PsaD1|AT4G02770	present	XP_010681150.2	0.69	95.105
+Beta_vulgaris	autotrophic	Amaranthaceae	PetC|AT4G03280	present	XP_010689313.1	1.0	75.325
+Beta_vulgaris	autotrophic	Amaranthaceae	PsbO1|AT5G66570	present	XP_010673597.1	1.0	78.614
+Beta_vulgaris	autotrophic	Amaranthaceae	RbcS1A|AT1G67090	present	XP_010693099.1	0.99	74.033
+Spinacia_oleracea	autotrophic	Amaranthaceae	ndhL|AT1G70760	present	XP_021866464.1	0.96	49.457
+Spinacia_oleracea	autotrophic	Amaranthaceae	ndhM|AT4G37925	present	XP_021841751.1	0.74	68.072
+Spinacia_oleracea	autotrophic	Amaranthaceae	ndhN|AT5G58260	present	XP_021861530.1	0.82	74.86
+Spinacia_oleracea	autotrophic	Amaranthaceae	ndhO|AT1G74880	present	XP_021858761.1	1.0	60.759
+Spinacia_oleracea	autotrophic	Amaranthaceae	ndhS|AT4G23890	present	XP_021846651.1	1.0	53.755
+Spinacia_oleracea	autotrophic	Amaranthaceae	ndhT|AT4G09350	present	XP_021847909.1	0.88	64.414
+Spinacia_oleracea	autotrophic	Amaranthaceae	ndhU|AT5G21430	present	XP_021855776.2	0.82	55.738
+Spinacia_oleracea	autotrophic	Amaranthaceae	PnsB1_NDF1|AT1G15980	present	XP_021866278.1	0.99	67.965
+Spinacia_oleracea	autotrophic	Amaranthaceae	PnsB2_NDF2|AT1G64770	present	XP_021863355.1	0.79	52.532
+Spinacia_oleracea	autotrophic	Amaranthaceae	PnsB3_NDF4|AT3G16250	present	XP_021862862.1	0.96	55.61
+Spinacia_oleracea	autotrophic	Amaranthaceae	PnsB4_NDF6|AT1G18730	present	XP_021859640.1	1.0	57.143
+Spinacia_oleracea	autotrophic	Amaranthaceae	PnsB5_NDH18|AT5G43750	present	XP_021844989.2	0.82	65.318
+Spinacia_oleracea	autotrophic	Amaranthaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Spinacia_oleracea	autotrophic	Amaranthaceae	PnsL2|AT1G14150	present	XP_021842999.1	0.98	54.124
+Spinacia_oleracea	autotrophic	Amaranthaceae	PnsL3|AT3G01440	present	XP_021863389.1	0.78	62.069
+Spinacia_oleracea	autotrophic	Amaranthaceae	PnsL4_FKBP16-2|AT4G39710	present	XP_021846377.1	0.99	55.093
+Spinacia_oleracea	autotrophic	Amaranthaceae	PnsL5_CYP20-2|AT5G13120	present	XP_021845923.1	0.71	80.328
+Spinacia_oleracea	autotrophic	Amaranthaceae	Lhca5|AT1G45474	present	XP_021849032.2	0.82	83.254
+Spinacia_oleracea	autotrophic	Amaranthaceae	Lhca6|AT1G19150	present	XP_021835763.1	1.0	69.853
+Spinacia_oleracea	autotrophic	Amaranthaceae	CRR1|AT5G52100	present	XP_021842326.1	1.0	75.503
+Spinacia_oleracea	autotrophic	Amaranthaceae	CRR3|AT2G01590	present	XP_021852365.1	0.99	40.113
+Spinacia_oleracea	autotrophic	Amaranthaceae	CRR6|AT2G47910	present	XP_021846644.1	0.8	70.5
+Spinacia_oleracea	autotrophic	Amaranthaceae	CRR7|AT5G39210	present	XP_021837662.1	0.58	65.934
+Spinacia_oleracea	autotrophic	Amaranthaceae	NDF5|AT1G55370	present	XP_021863345.1	0.91	39.167
+Spinacia_oleracea	autotrophic	Amaranthaceae	CRR2|AT3G46790	present	XP_021864830.1	1.0	63.54
+Spinacia_oleracea	autotrophic	Amaranthaceae	CRR4|AT2G45350	present	XP_056693501.1	0.97	57.621
+Spinacia_oleracea	autotrophic	Amaranthaceae	CRR21|AT5G55740	present	XP_021866153.1	0.87	55.81
+Spinacia_oleracea	autotrophic	Amaranthaceae	CRR22|AT1G11290	present	XP_021838361.1	0.97	64.331
+Spinacia_oleracea	autotrophic	Amaranthaceae	CRR28|AT1G59720	present	XP_056699871.1	0.96	61.702
+Spinacia_oleracea	autotrophic	Amaranthaceae	PGR5|AT2G05620	present	XP_021849201.1	1.0	71.429
+Spinacia_oleracea	autotrophic	Amaranthaceae	PGRL1A|AT4G22890	present	XP_021844493.1	1.0	67.378
+Spinacia_oleracea	autotrophic	Amaranthaceae	PGRL1B|AT4G11960	present	XP_021844493.1	0.99	67.188
+Spinacia_oleracea	autotrophic	Amaranthaceae	PsaD1|AT4G02770	present	NP_001413259.1	0.7	94.483
+Spinacia_oleracea	autotrophic	Amaranthaceae	PetC|AT4G03280	present	NP_001413377.1	1.0	76.293
+Spinacia_oleracea	autotrophic	Amaranthaceae	PsbO1|AT5G66570	present	NP_001413402.1	1.0	76.647
+Spinacia_oleracea	autotrophic	Amaranthaceae	RbcS1A|AT1G67090	present	XP_056696784.1	0.99	73.481
+Actinidia_chinensis	autotrophic	Actinidiaceae	ndhL|AT1G70760	present	PSR88144.1	0.96	54.595
+Actinidia_chinensis	autotrophic	Actinidiaceae	ndhM|AT4G37925	present	PSS00117.1	0.94	61.165
+Actinidia_chinensis	autotrophic	Actinidiaceae	ndhN|AT5G58260	present	PSR95003.1	0.93	70.619
+Actinidia_chinensis	autotrophic	Actinidiaceae	ndhO|AT1G74880	present	PSS30244.1	1.0	63.03
+Actinidia_chinensis	autotrophic	Actinidiaceae	ndhS|AT4G23890	present	PSR91435.1	0.97	57.143
+Actinidia_chinensis	autotrophic	Actinidiaceae	ndhT|AT4G09350	present	PSS19405.1	0.94	59.839
+Actinidia_chinensis	autotrophic	Actinidiaceae	ndhU|AT5G21430	present	PSR93619.1	0.79	56.395
+Actinidia_chinensis	autotrophic	Actinidiaceae	PnsB1_NDF1|AT1G15980	present	PSS07575.1	0.9	76.513
+Actinidia_chinensis	autotrophic	Actinidiaceae	PnsB2_NDF2|AT1G64770	present	PSR84576.1	0.78	57.732
+Actinidia_chinensis	autotrophic	Actinidiaceae	PnsB3_NDF4|AT3G16250	present	PSS07414.1	0.97	62.687
+Actinidia_chinensis	autotrophic	Actinidiaceae	PnsB4_NDF6|AT1G18730	present	PSS07928.1	1.0	59.016
+Actinidia_chinensis	autotrophic	Actinidiaceae	PnsB5_NDH18|AT5G43750	present	PSR92778.1	1.0	53.153
+Actinidia_chinensis	autotrophic	Actinidiaceae	PnsL1_PPL2|AT2G39470	present	PSS33374.1	0.82	64.796
+Actinidia_chinensis	autotrophic	Actinidiaceae	PnsL2|AT1G14150	present	PSS13513.1	0.98	54.592
+Actinidia_chinensis	autotrophic	Actinidiaceae	PnsL3|AT3G01440	present	PSR96309.1	1.0	56.054
+Actinidia_chinensis	autotrophic	Actinidiaceae	PnsL4_FKBP16-2|AT4G39710	present	PSR91655.1	0.99	59.174
+Actinidia_chinensis	autotrophic	Actinidiaceae	PnsL5_CYP20-2|AT5G13120	present	PSR88204.1	0.71	83.696
+Actinidia_chinensis	autotrophic	Actinidiaceae	Lhca5|AT1G45474	present	PSR99766.1	0.82	81.34
+Actinidia_chinensis	autotrophic	Actinidiaceae	Lhca6|AT1G19150	present	PSS02042.1	1.0	73.704
+Actinidia_chinensis	autotrophic	Actinidiaceae	CRR1|AT5G52100	present	PSR93407.1	0.87	75.0
+Actinidia_chinensis	autotrophic	Actinidiaceae	CRR3|AT2G01590	present	PSR88142.1	0.61	50.909
+Actinidia_chinensis	autotrophic	Actinidiaceae	CRR6|AT2G47910	present	PSS13908.1	1.0	65.748
+Actinidia_chinensis	autotrophic	Actinidiaceae	CRR7|AT5G39210	present	PSS35107.1	0.64	63.0
+Actinidia_chinensis	autotrophic	Actinidiaceae	NDF5|AT1G55370	present	PSR84577.1	0.93	43.869
+Actinidia_chinensis	autotrophic	Actinidiaceae	CRR2|AT3G46790	present	PSS14223.1	1.0	69.102
+Actinidia_chinensis	autotrophic	Actinidiaceae	CRR4|AT2G45350	present	PSS11821.1	0.96	59.492
+Actinidia_chinensis	autotrophic	Actinidiaceae	CRR21|AT5G55740	present	PSS01846.1	0.99	57.844
+Actinidia_chinensis	autotrophic	Actinidiaceae	CRR22|AT1G11290	present	PSS00204.1	0.96	65.513
+Actinidia_chinensis	autotrophic	Actinidiaceae	CRR28|AT1G59720	absent		0	0
+Actinidia_chinensis	autotrophic	Actinidiaceae	PGR5|AT2G05620	present	PSR97941.1	0.98	71.756
+Actinidia_chinensis	autotrophic	Actinidiaceae	PGRL1A|AT4G22890	present	PSS04115.1	1.0	74.312
+Actinidia_chinensis	autotrophic	Actinidiaceae	PGRL1B|AT4G11960	present	PSS04115.1	0.99	75.235
+Actinidia_chinensis	autotrophic	Actinidiaceae	PsaD1|AT4G02770	present	PSS01446.1	1.0	73.953
+Actinidia_chinensis	autotrophic	Actinidiaceae	PetC|AT4G03280	present	PSR96332.1	1.0	76.19
+Actinidia_chinensis	autotrophic	Actinidiaceae	PsbO1|AT5G66570	present	PSS30787.1	1.0	80.18
+Actinidia_chinensis	autotrophic	Actinidiaceae	RbcS1A|AT1G67090	present	PSR91164.1	1.0	62.222
+Erythranthe_guttata	autotrophic	Phrymaceae	ndhL|AT1G70760	present	XP_012842554.2	0.97	50.0
+Erythranthe_guttata	autotrophic	Phrymaceae	ndhM|AT4G37925	present	XP_012843276.1	0.93	62.381
+Erythranthe_guttata	autotrophic	Phrymaceae	ndhN|AT5G58260	present	XP_012844081.2	0.8	78.698
+Erythranthe_guttata	autotrophic	Phrymaceae	ndhO|AT1G74880	present	XP_088683551.1	1.0	66.038
+Erythranthe_guttata	autotrophic	Phrymaceae	ndhS|AT4G23890	present	XP_012854268.2	0.92	56.652
+Erythranthe_guttata	autotrophic	Phrymaceae	ndhT|AT4G09350	present	XP_012833447.2	0.85	64.22
+Erythranthe_guttata	autotrophic	Phrymaceae	ndhU|AT5G21430	present	XP_012857894.1	0.9	53.431
+Erythranthe_guttata	autotrophic	Phrymaceae	PnsB1_NDF1|AT1G15980	present	XP_012856190.2	1.0	70.236
+Erythranthe_guttata	autotrophic	Phrymaceae	PnsB2_NDF2|AT1G64770	present	XP_012834455.2	0.78	57.241
+Erythranthe_guttata	autotrophic	Phrymaceae	PnsB3_NDF4|AT3G16250	present	XP_012856380.2	0.97	57.5
+Erythranthe_guttata	autotrophic	Phrymaceae	PnsB4_NDF6|AT1G18730	present	XP_012853007.2	1.0	57.754
+Erythranthe_guttata	autotrophic	Phrymaceae	PnsB5_NDH18|AT5G43750	present	XP_012842700.2	0.98	55.708
+Erythranthe_guttata	autotrophic	Phrymaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Erythranthe_guttata	autotrophic	Phrymaceae	PnsL2|AT1G14150	present	XP_012855406.2	0.69	70.992
+Erythranthe_guttata	autotrophic	Phrymaceae	PnsL3|AT3G01440	present	XP_012827556.2	0.95	51.628
+Erythranthe_guttata	autotrophic	Phrymaceae	PnsL4_FKBP16-2|AT4G39710	present	XP_012853496.2	0.65	74.468
+Erythranthe_guttata	autotrophic	Phrymaceae	PnsL5_CYP20-2|AT5G13120	present	XP_012837455.2	0.99	66.279
+Erythranthe_guttata	autotrophic	Phrymaceae	Lhca5|AT1G45474	present	XP_088671693.1	0.84	81.776
+Erythranthe_guttata	autotrophic	Phrymaceae	Lhca6|AT1G19150	present	XP_012851228.2	0.9	77.459
+Erythranthe_guttata	autotrophic	Phrymaceae	CRR1|AT5G52100	present	XP_012852190.2	1.0	77.592
+Erythranthe_guttata	autotrophic	Phrymaceae	CRR3|AT2G01590	present	XP_088683135.1	0.68	44.262
+Erythranthe_guttata	autotrophic	Phrymaceae	CRR6|AT2G47910	present	XP_012851863.2	0.84	73.786
+Erythranthe_guttata	autotrophic	Phrymaceae	CRR7|AT5G39210	present	XP_012851645.2	0.85	53.383
+Erythranthe_guttata	autotrophic	Phrymaceae	NDF5|AT1G55370	present	XP_012834454.2	0.82	38.081
+Erythranthe_guttata	autotrophic	Phrymaceae	CRR2|AT3G46790	present	XP_012836785.2	0.99	66.871
+Erythranthe_guttata	autotrophic	Phrymaceae	CRR4|AT2G45350	present	XP_012845599.2	0.95	57.461
+Erythranthe_guttata	autotrophic	Phrymaceae	CRR21|AT5G55740	absent		0	0
+Erythranthe_guttata	autotrophic	Phrymaceae	CRR22|AT1G11290	present	XP_012833964.2	0.97	64.259
+Erythranthe_guttata	autotrophic	Phrymaceae	CRR28|AT1G59720	present	XP_012847511.2	0.9	62.069
+Erythranthe_guttata	autotrophic	Phrymaceae	PGR5|AT2G05620	present	XP_012828607.1	0.89	73.109
+Erythranthe_guttata	autotrophic	Phrymaceae	PGRL1A|AT4G22890	present	XP_088673869.1	1.0	70.769
+Erythranthe_guttata	autotrophic	Phrymaceae	PGRL1B|AT4G11960	present	XP_012835498.1	0.99	69.872
+Erythranthe_guttata	autotrophic	Phrymaceae	PsaD1|AT4G02770	present	XP_012841507.1	1.0	74.528
+Erythranthe_guttata	autotrophic	Phrymaceae	PetC|AT4G03280	present	XP_012852450.1	1.0	71.121
+Erythranthe_guttata	autotrophic	Phrymaceae	PsbO1|AT5G66570	present	XP_012852779.2	1.0	78.916
+Erythranthe_guttata	autotrophic	Phrymaceae	RbcS1A|AT1G67090	present	XP_012836597.2	0.99	67.582
+Ananas_comosus	autotrophic	Bromeliaceae	ndhL|AT1G70760	present	XP_020091219.1	0.58	61.261
+Ananas_comosus	autotrophic	Bromeliaceae	ndhM|AT4G37925	present	XP_020085211.1	0.62	77.206
+Ananas_comosus	autotrophic	Bromeliaceae	ndhN|AT5G58260	present	XP_020101289.1	0.78	76.074
+Ananas_comosus	autotrophic	Bromeliaceae	ndhO|AT1G74880	present	XP_020110154.1	0.83	66.429
+Ananas_comosus	autotrophic	Bromeliaceae	ndhS|AT4G23890	present	XP_020102782.1	0.79	52.217
+Ananas_comosus	autotrophic	Bromeliaceae	ndhT|AT4G09350	present	XP_020111980.1	0.87	59.641
+Ananas_comosus	autotrophic	Bromeliaceae	ndhU|AT5G21430	present	XP_020100333.1	0.69	63.333
+Ananas_comosus	autotrophic	Bromeliaceae	PnsB1_NDF1|AT1G15980	present	XP_020109677.1	0.89	72.749
+Ananas_comosus	autotrophic	Bromeliaceae	PnsB2_NDF2|AT1G64770	present	XP_020104773.1	0.72	53.237
+Ananas_comosus	autotrophic	Bromeliaceae	PnsB3_NDF4|AT3G16250	partial	XP_020095334.1	0.36	72.973
+Ananas_comosus	autotrophic	Bromeliaceae	PnsB4_NDF6|AT1G18730	present	XP_020089773.1	0.63	74.775
+Ananas_comosus	autotrophic	Bromeliaceae	PnsB5_NDH18|AT5G43750	present	XP_020103884.1	0.99	49.541
+Ananas_comosus	autotrophic	Bromeliaceae	PnsL1_PPL2|AT2G39470	present	XP_020108309.1	0.76	61.878
+Ananas_comosus	autotrophic	Bromeliaceae	PnsL2|AT1G14150	present	XP_020110430.1	0.64	75.41
+Ananas_comosus	autotrophic	Bromeliaceae	PnsL3|AT3G01440	present	XP_020081791.1	0.79	51.724
+Ananas_comosus	autotrophic	Bromeliaceae	PnsL4_FKBP16-2|AT4G39710	present	XP_020089715.1	0.83	72.222
+Ananas_comosus	autotrophic	Bromeliaceae	PnsL5_CYP20-2|AT5G13120	present	XP_020110843.1	0.71	80.645
+Ananas_comosus	autotrophic	Bromeliaceae	Lhca5|AT1G45474	present	XP_020089861.1	0.83	74.648
+Ananas_comosus	autotrophic	Bromeliaceae	Lhca6|AT1G19150	present	XP_020089686.1	1.0	73.704
+Ananas_comosus	autotrophic	Bromeliaceae	CRR1|AT5G52100	present	XP_020093718.1	0.94	74.91
+Ananas_comosus	autotrophic	Bromeliaceae	CRR3|AT2G01590	present	XP_020105326.1	0.6	45.614
+Ananas_comosus	autotrophic	Bromeliaceae	CRR6|AT2G47910	present	XP_020083394.1	0.87	65.278
+Ananas_comosus	autotrophic	Bromeliaceae	CRR7|AT5G39210	present	XP_020091989.1	0.62	68.75
+Ananas_comosus	autotrophic	Bromeliaceae	NDF5|AT1G55370	present	XP_020082048.1	0.85	42.151
+Ananas_comosus	autotrophic	Bromeliaceae	CRR2|AT3G46790	present	XP_020113533.1	0.99	60.245
+Ananas_comosus	autotrophic	Bromeliaceae	CRR4|AT2G45350	present	XP_020113079.1	0.98	50.166
+Ananas_comosus	autotrophic	Bromeliaceae	CRR21|AT5G55740	present	XP_020105582.1	0.83	55.458
+Ananas_comosus	autotrophic	Bromeliaceae	CRR22|AT1G11290	present	XP_020114486.1	0.95	59.841
+Ananas_comosus	autotrophic	Bromeliaceae	CRR28|AT1G59720	present	XP_020092304.1	0.92	53.62
+Ananas_comosus	autotrophic	Bromeliaceae	PGR5|AT2G05620	present	XP_020080052.1	0.89	61.864
+Ananas_comosus	autotrophic	Bromeliaceae	PGRL1A|AT4G22890	present	XP_020096096.1	0.91	71.812
+Ananas_comosus	autotrophic	Bromeliaceae	PGRL1B|AT4G11960	present	XP_020096096.1	0.95	70.333
+Ananas_comosus	autotrophic	Bromeliaceae	PsaD1|AT4G02770	present	XP_020092779.1	1.0	71.226
+Ananas_comosus	autotrophic	Bromeliaceae	PetC|AT4G03280	present	XP_020095555.1	1.0	70.464
+Ananas_comosus	autotrophic	Bromeliaceae	PsbO1|AT5G66570	present	XP_020095067.1	1.0	76.048
+Ananas_comosus	autotrophic	Bromeliaceae	RbcS1A|AT1G67090	present	XP_020082204.1	0.97	69.492
+Striga_asiatica	hemiparasitic	Orobanchaceae	ndhL|AT1G70760	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	ndhM|AT4G37925	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	ndhN|AT5G58260	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	ndhO|AT1G74880	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	ndhS|AT4G23890	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	ndhT|AT4G09350	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	ndhU|AT5G21430	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PnsB1_NDF1|AT1G15980	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PnsB2_NDF2|AT1G64770	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PnsB3_NDF4|AT3G16250	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PnsB4_NDF6|AT1G18730	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PnsB5_NDH18|AT5G43750	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PnsL2|AT1G14150	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PnsL3|AT3G01440	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PnsL4_FKBP16-2|AT4G39710	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PnsL5_CYP20-2|AT5G13120	present	GER47332.1	0.71	82.703
+Striga_asiatica	hemiparasitic	Orobanchaceae	Lhca5|AT1G45474	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	Lhca6|AT1G19150	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	CRR1|AT5G52100	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	CRR3|AT2G01590	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	CRR6|AT2G47910	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	CRR7|AT5G39210	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	NDF5|AT1G55370	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	CRR2|AT3G46790	present	GER46063.1	0.93	62.029
+Striga_asiatica	hemiparasitic	Orobanchaceae	CRR4|AT2G45350	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	CRR21|AT5G55740	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	CRR22|AT1G11290	present	GER43218.1	0.97	64.086
+Striga_asiatica	hemiparasitic	Orobanchaceae	CRR28|AT1G59720	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PGR5|AT2G05620	present	GER41703.1	0.93	68.0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PGRL1A|AT4G22890	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PGRL1B|AT4G11960	absent		0	0
+Striga_asiatica	hemiparasitic	Orobanchaceae	PsaD1|AT4G02770	present	GER44697.1	1.0	71.028
+Striga_asiatica	hemiparasitic	Orobanchaceae	PetC|AT4G03280	present	GER48200.1	1.0	71.064
+Striga_asiatica	hemiparasitic	Orobanchaceae	PsbO1|AT5G66570	present	GER30811.1	1.0	77.177
+Striga_asiatica	hemiparasitic	Orobanchaceae	RbcS1A|AT1G67090	present	GER45996.1	0.99	59.89
+Cuscuta_australis	holoparasitic	Convolvulaceae	ndhL|AT1G70760	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	ndhM|AT4G37925	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	ndhN|AT5G58260	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	ndhO|AT1G74880	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	ndhS|AT4G23890	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	ndhT|AT4G09350	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	ndhU|AT5G21430	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PnsB1_NDF1|AT1G15980	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PnsB2_NDF2|AT1G64770	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PnsB3_NDF4|AT3G16250	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PnsB4_NDF6|AT1G18730	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PnsB5_NDH18|AT5G43750	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PnsL1_PPL2|AT2G39470	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PnsL2|AT1G14150	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PnsL3|AT3G01440	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PnsL4_FKBP16-2|AT4G39710	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PnsL5_CYP20-2|AT5G13120	present	RAL38662.1	0.98	66.797
+Cuscuta_australis	holoparasitic	Convolvulaceae	Lhca5|AT1G45474	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	Lhca6|AT1G19150	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	CRR1|AT5G52100	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	CRR3|AT2G01590	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	CRR6|AT2G47910	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	CRR7|AT5G39210	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	NDF5|AT1G55370	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	CRR2|AT3G46790	present	RAL52259.1	0.93	42.241
+Cuscuta_australis	holoparasitic	Convolvulaceae	CRR4|AT2G45350	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	CRR21|AT5G55740	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	CRR22|AT1G11290	present	RAL44836.1	0.98	60.15
+Cuscuta_australis	holoparasitic	Convolvulaceae	CRR28|AT1G59720	absent		0	0
+Cuscuta_australis	holoparasitic	Convolvulaceae	PGR5|AT2G05620	present	RAL38348.1	0.86	73.043
+Cuscuta_australis	holoparasitic	Convolvulaceae	PGRL1A|AT4G22890	present	RAL53392.1	1.0	69.725
+Cuscuta_australis	holoparasitic	Convolvulaceae	PGRL1B|AT4G11960	present	RAL53392.1	0.99	72.642
+Cuscuta_australis	holoparasitic	Convolvulaceae	PsaD1|AT4G02770	present	RAL54360.1	0.71	85.714
+Cuscuta_australis	holoparasitic	Convolvulaceae	PetC|AT4G03280	present	RAL50393.1	1.0	69.697
+Cuscuta_australis	holoparasitic	Convolvulaceae	PsbO1|AT5G66570	present	RAL46744.1	1.0	68.563
+Cuscuta_australis	holoparasitic	Convolvulaceae	RbcS1A|AT1G67090	present	RAL46597.1	0.97	64.571

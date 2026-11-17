@@ -1,0 +1,85 @@
+{
+ "ndhF": {
+  "fu_cds_len": 2226,
+  "fu_internal_stops": 0,
+  "chang_homolog_len": 2336,
+  "chang_frameshift_indels": 10,
+  "chang_inframe_indels": 3,
+  "chang_first_stop_codon_aa": 8,
+  "chang_orf_fraction_of_fu": 0.01,
+  "frameshifts": [
+   [
+    1,
+    "ins",
+    56
+   ],
+   [
+    773,
+    "ins",
+    1
+   ],
+   [
+    1439,
+    "del",
+    1
+   ],
+   [
+    1508,
+    "ins",
+    2
+   ],
+   [
+    1563,
+    "del",
+    1
+   ],
+   [
+    1705,
+    "del",
+    4
+   ]
+  ],
+  "strand": "-",
+  "chang_coords": "128583-130798"
+ },
+ "ndhD": {
+  "fu_cds_len": 1521,
+  "fu_internal_stops": 0,
+  "chang_homolog_len": 1523,
+  "chang_frameshift_indels": 3,
+  "chang_inframe_indels": 0,
+  "chang_first_stop_codon_aa": 205,
+  "chang_orf_fraction_of_fu": 0.4,
+  "frameshifts": [
+   [
+    557,
+    "del",
+    1
+   ],
+   [
+    929,
+    "ins",
+    2
+   ],
+   [
+    1505,
+    "ins",
+    1
+   ]
+  ],
+  "strand": "+",
+  "chang_coords": "124472-125993"
+ },
+ "ndhG": {
+  "fu_cds_len": 531,
+  "fu_internal_stops": 0,
+  "chang_homolog_len": 531,
+  "chang_frameshift_indels": 0,
+  "chang_inframe_indels": 0,
+  "chang_first_stop_codon_aa": 124,
+  "chang_orf_fraction_of_fu": 0.7,
+  "frameshifts": [],
+  "strand": "+",
+  "chang_coords": "122806-123336"
+ }
+}

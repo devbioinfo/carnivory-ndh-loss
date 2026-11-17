@@ -1,0 +1,9 @@
+gene	call	len_frac_of_ref	reason
+ndhC	intact	1.08	intact (1.08)
+ndhD	truncated	0.29	truncated (0.29)
+ndhF	truncated	0.35	truncated (0.35)
+ndhG	intact	0.99	intact (0.99)
+ndhH	truncated	0.07	frame
+ndhI	intact	0.97	intact (0.97)
+ndhJ	intact	1.01	intact (1.01)
+ndhK	intact	1.01	intact (1.01)

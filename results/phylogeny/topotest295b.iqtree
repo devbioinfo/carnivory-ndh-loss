@@ -1,0 +1,714 @@
+IQ-TREE 3.1.4 built Sep 29 2026
+
+Partition file name: codonpos.nex
+Input file name: concat.fasta
+User tree file name: out/ml295_r1.treefile
+Type of analysis: tree reconstruction
+Random seed number: 101
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Piyumal Demotte, Hector Banos,
+Andrew J. Roger, Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman,
+Matthew W. Hahn, Mario dos Reis, Le Sy Vinh, Gavin Huttley, Robert Lanfear, Bui Quang Minh (2026)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Molecular Biology and Evolution, msag117.
+https://doi.org/10.1093/molbev/msag117
+
+Since you used partition models please also cite:
+
+Olga Chernomor, Arndt von Haeseler, and Bui Quang Minh (2016)
+Terrace aware data structure for phylogenomic inference from
+supermatrices. Syst. Biol., 65:997-1008.
+https://doi.org/10.1093/sysbio/syw037
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 295 taxa with 3 partitions and 68313 total sites (0% missing data)
+
+  ID	Type	Seq	Site	Unique	Infor	Invar	Const	Name
+   1	DNA	295	22771	15012	12170	8277	8277	pos1
+   2	DNA	295	22771	12424	9611	10963	10963	pos2
+   3	DNA	295	22771	20733	18531	2359	2359	pos3
+
+Column meanings:
+  Unique: Number of unique site patterns
+  Infor:  Number of parsimony-informative sites
+  Invar:  Number of invariant sites
+  Const:  Number of constant sites (can be subset of invariant sites)
+
+SUBSTITUTION PROCESS
+--------------------
+
+Edge-linked-proportional partition model with separate substitution models and separate rates across sites
+
+  ID  Model           Speed  Parameters
+   1  GTR+F+G4       0.8689  GTR{2.3335,2.13736,0.550026,0.903938,2.5109}+F{0.305767,0.188398,0.273878,0.231957}+G4{0.46448}
+   2  GTR+F+G4       0.6807  GTR{1.46882,2.67154,0.463872,1.15675,1.96923}+F{0.288929,0.204515,0.179508,0.327047}+G4{0.359568}
+   3  GTR+F+G4       1.4504  GTR{1.35008,2.6572,0.226861,1.0746,2.78397}+F{0.322985,0.135886,0.156986,0.384144}+G4{1.03404}
+
+USER TREE
+---------
+
+Log-likelihood of the tree: -1802891.4322 (s.e. 7321.8126)
+Unconstrained log-likelihood (without tree): -599553.3909
+Number of free parameters (#branches + #model parameters): 616
+Akaike information criterion (AIC) score: 3607014.8645
+Corrected Akaike information criterion (AICc) score: 3607026.0932
+Bayesian information criterion (BIC) score: 3612640.0874
+
+Marginal log-likelihood of the tree: -1805663.7417
+Marginal Akaike information criterion (mAIC) score: 3612559.4833
+
+Total tree length (sum of branch lengths): 9.3977
+Sum of internal branch lengths: 3.9672 (42.2149% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Cipuropsis_capituligera' is drawn at root
+
++--Cipuropsis_capituligera
+| (99.9/100/99.9/100)
+|              +--Racinaea_ropalocarpa
+|           +--| (0/44/0.9/47)
+|           |  +--Tillandsia_rubroviolacea
+|        +--| (100/100/100/100)
+|        |  +--Pseudalcantarea_viridiflora
+|     +--| (99.3/100/100/100)
+|     |  |                                   +---Byblis_gigantea
+|     |  |                                +--| (99.9/100)
+|     |  |                                |  |                                             +--Orobanche_cernua
+|     |  |                                |  |                                          +--| (100/100/99.7/100)
+|     |  |                                |  |                                          |  |     +--Orobanche_gracilis
+|     |  |                                |  |                                          |  |  +--| (100/100/100/100)
+|     |  |                                |  |                                          |  |  |  +--Orobanche_austrohispanica
+|     |  |                                |  |                                          |  +--| (99.9/100/100/100)
+|     |  |                                |  |                                          |     +--Orobanche_densiflora
+|     |  |                                |  |                                       +--| (100/100/100/100)
+|     |  |                                |  |                                       |  |        +--Orobanche_crenata
+|     |  |                                |  |                                       |  |     +--| (100/100/100/100)
+|     |  |                                |  |                                       |  |     |  +--Orobanche_pancicii
+|     |  |                                |  |                                       |  |  +--| (100/100/100/100)
+|     |  |                                |  |                                       |  |  |  +--Orobanche_rapum-genistae
+|     |  |                                |  |                                       |  +--| (78.2/91/73.8/87)
+|     |  |                                |  |                                       |     |     +--Orobanche_coerulescens
+|     |  |                                |  |                                       |     |  +--| (100/100/99.9/100)
+|     |  |                                |  |                                       |     |  |  +--Orobanche_pycnostachya
+|     |  |                                |  |                                       |     +--| (100/100/100/100)
+|     |  |                                |  |                                       |        +--Orobanche_boninsimae
+|     |  |                                |  |                                   +---| (100/100/100/100)
+|     |  |                                |  |                                   |   +---Phacellanthus_tubiflorus
+|     |  |                                |  |                                +--| (98.8/98/99.5/100)
+|     |  |                                |  |                                |  +---------------------Diphelypaea_coccinea
+|     |  |                                |  |                             +--| (100/100/100/100)
+|     |  |                                |  |                             |  +----Orobanche_latisquama
+|     |  |                                |  |                          +--| (99.9/100/100/100)
+|     |  |                                |  |                          |  |                +--Phelipanche_aegyptiaca
+|     |  |                                |  |                          |  |             +--| (100/100/100/100)
+|     |  |                                |  |                          |  |             |  +--Phelipanche_ramosa
+|     |  |                                |  |                          |  |  +----------| (100/100/100/100)
+|     |  |                                |  |                          |  |  |          +---Phelipanche_purpurea
+|     |  |                                |  |                          |  +--| (100/100/99.9/100)
+|     |  |                                |  |                          |     |     +--Aphyllon_epigalium
+|     |  |                                |  |                          |     |  +--| (100/100/100/100)
+|     |  |                                |  |                          |     |  |  |  +--Aphyllon_uniflorum
+|     |  |                                |  |                          |     |  |  +--| (100/100/100/100)
+|     |  |                                |  |                          |     |  |     +--Aphyllon_fasciculatum
+|     |  |                                |  |                          |     +--| (100/100/100/100)
+|     |  |                                |  |                          |        +--Aphyllon_californicum
+|     |  |                                |  |                       +--| (82.8/81/100/100)
+|     |  |                                |  |                       |  |        +-----Epifagus_virginiana
+|     |  |                                |  |                       |  |     +--| (100/100/100/100)
+|     |  |                                |  |                       |  |     |  +--Conopholis_americana
+|     |  |                                |  |                       |  |  +--| (100/100/99.8/98)
+|     |  |                                |  |                       |  |  |  +--Xylanche_himalaica
+|     |  |                                |  |                       |  +--| (80.8/77/85.3/83)
+|     |  |                                |  |                       |     |     +--Cistanche_deserticola
+|     |  |                                |  |                       |     |  +--| (79.3/77/100/100)
+|     |  |                                |  |                       |     |  |  +--Cistanche_phelypaea
+|     |  |                                |  |                       |     +--| (100/100/82.6/80)
+|     |  |                                |  |                       |        +--Gleadovia_mupinensis
+|     |  |                                |  |                    +--| (100/100/95.9/95)
+|     |  |                                |  |                    |  |     +--Centranthera_grandiflora
+|     |  |                                |  |                    |  |  +--| (100/100/100/100)
+|     |  |                                |  |                    |  |  |  +-----Striga_asiatica
+|     |  |                                |  |                    |  +--| (99.5/98/100/100)
+|     |  |                                |  |                    |     |      +--Aeginetia_indica
+|     |  |                                |  |                    |     +------| (100/100/100/100)
+|     |  |                                |  |                    |            +--Aeginetia_sinensis
+|     |  |                                |  |                 +--| (99.8/99/100/100)
+|     |  |                                |  |                 |  |                    +--Lathraea_squamaria
+|     |  |                                |  |                 |  |                 +--| (100/100/100/100)
+|     |  |                                |  |                 |  |                 |  +--Lathraea_japonica
+|     |  |                                |  |                 |  |              +--| (100/100/100/100)
+|     |  |                                |  |                 |  |              |  +--Rhinanthus_alectorolophus
+|     |  |                                |  |                 |  |           +--| (100/100/100/100)
+|     |  |                                |  |                 |  |           |  |  +--Bartsia_alpina
+|     |  |                                |  |                 |  |           |  +--| (100/100/100/100)
+|     |  |                                |  |                 |  |           |     +--Euphrasia_cisalpina
+|     |  |                                |  |                 |  |        +--| (100/100/100/100)
+|     |  |                                |  |                 |  |        |  +--Melampyrum_setaceum
+|     |  |                                |  |                 |  |     +--| (58.7/59/65.4/68)
+|     |  |                                |  |                 |  |     |  |  +--Brandisia_discolor
+|     |  |                                |  |                 |  |     |  +--| (100/100/100/100)
+|     |  |                                |  |                 |  |     |     +--Brandisia_scandens
+|     |  |                                |  |                 |  |  +--| (100/100/99.9/100)
+|     |  |                                |  |                 |  |  |  +--Pterygiella_tenuisecta
+|     |  |                                |  |                 |  +--| (100/100/100/100)
+|     |  |                                |  |                 |     |                 +--Castilleja_paramensis
+|     |  |                                |  |                 |     |              +--| (100/100/100/100)
+|     |  |                                |  |                 |     |              |  +--Castilleja_mendocinensis
+|     |  |                                |  |                 |     |           +--| (100/100/100/100)
+|     |  |                                |  |                 |     |           |  +--Triphysaria_versicolor
+|     |  |                                |  |                 |     |        +--| (100/100/100/100)
+|     |  |                                |  |                 |     |        |  +--Chloropyron_palmatum
+|     |  |                                |  |                 |     |     +--| (100/100/100/100)
+|     |  |                                |  |                 |     |     |  +--Agalinis_fasciculata
+|     |  |                                |  |                 |     |  +--| (100/100/100/100)
+|     |  |                                |  |                 |     |  |  +--Phtheirospermum_japonicum
+|     |  |                                |  |                 |     +--| (100/100/100/100)
+|     |  |                                |  |                 |        +--Pedicularis_armata
+|     |  |                                |  |              +--| (100/100/100/100)
+|     |  |                                |  |              |  |  +--Siphonostegia_chinensis
+|     |  |                                |  |              |  +--| (100/100/100/100)
+|     |  |                                |  |              |     |      +--Cymbaria_daurica
+|     |  |                                |  |              |     |  +---| (100/100/100/100)
+|     |  |                                |  |              |     |  |   +--Cymbaria_mongolica
+|     |  |                                |  |              |     +--| (100/100/100/100)
+|     |  |                                |  |              |        +--Monochasma_savatieri
+|     |  |                                |  |           +--| (100/100/100/100)
+|     |  |                                |  |           |  |  +--Lindenbergia_philippensis
+|     |  |                                |  |           |  +--| (100/100/100/100)
+|     |  |                                |  |           |     +--Lindenbergia_indica
+|     |  |                                |  |        +--| (100/100/100/100)
+|     |  |                                |  |        |  |              +--Rehmannia_chingii
+|     |  |                                |  |        |  |           +--| (96.1/100/100/100)
+|     |  |                                |  |        |  |           |  +--Rehmannia_elata
+|     |  |                                |  |        |  |        +--| (100/100/99.7/100)
+|     |  |                                |  |        |  |        |  +--Rehmannia_piasezkii
+|     |  |                                |  |        |  |     +--| (99.2/100/93.6/100)
+|     |  |                                |  |        |  |     |  |  +--Rehmannia_glutinosa
+|     |  |                                |  |        |  |     |  +--| (100/100/100/100)
+|     |  |                                |  |        |  |     |     +--Rehmannia_chrysantha
+|     |  |                                |  |        |  |  +--| (100/100/100/100)
+|     |  |                                |  |        |  |  |  |  +**Rehmannia_henryi
+|     |  |                                |  |        |  |  |  +--| (100/100/100/100)
+|     |  |                                |  |        |  |  |     +**Rehmannia_solanifolia
+|     |  |                                |  |        |  +--| (100/100/100/100)
+|     |  |                                |  |        |     +--Triaenophora_shennongjiaensis
+|     |  |                                |  |     +--| (100/100/100/100)
+|     |  |                                |  |     |  |     +--Paulownia_tomentosa
+|     |  |                                |  |     |  |  +--| (84/84/89.6/90)
+|     |  |                                |  |     |  |  |  +--Paulownia_catalpifolia
+|     |  |                                |  |     |  +--| (100/100/100/100)
+|     |  |                                |  |     |     +--Paulownia_elongata
+|     |  |                                |  |  +--| (100/100/100/100)
+|     |  |                                |  |  |  |           +--Anisomeles_indica
+|     |  |                                |  |  |  |        +--| (100/100/100/100)
+|     |  |                                |  |  |  |        |  |     +--Ballota_nigra
+|     |  |                                |  |  |  |        |  |  +--| (100/100/100/100)
+|     |  |                                |  |  |  |        |  |  |  +--Ajugoides_humilis
+|     |  |                                |  |  |  |        |  +--| (100/100/100/100)
+|     |  |                                |  |  |  |        |     +--Betonica_alopecuros
+|     |  |                                |  |  |  |     +--| (99.9/100/100/100)
+|     |  |                                |  |  |  |     |  |  +--Amethystea_caerulea
+|     |  |                                |  |  |  |     |  +--| (100/100/100/100)
+|     |  |                                |  |  |  |     |     +--Ajuga_macrosperma
+|     |  |                                |  |  |  |  +--| (100/100/99.9/100)
+|     |  |                                |  |  |  |  |  +--Agastache_rugosa
+|     |  |                                |  |  |  +--| (100/100/100/100)
+|     |  |                                |  |  |     +--Callicarpa_longissima
+|     |  |                                |  +--| (100/100/99.2/100)
+|     |  |                                |     |                                +--Utricularia_foliosa
+|     |  |                                |     |                             +--| (100/100/100/100)
+|     |  |                                |     |                             |  |           +--Utricularia_macrorhiza
+|     |  |                                |     |                             |  |        +--| (97.4/98/97.7/97)
+|     |  |                                |     |                             |  |        |  +--Utricularia_australis
+|     |  |                                |     |                             |  |     +--| (100/100/100/100)
+|     |  |                                |     |                             |  |     |  +--Utricularia_tenuicaulis
+|     |  |                                |     |                             |  |  +--| (100/100/98.5/98)
+|     |  |                                |     |                             |  |  |  +--Utricularia_minor
+|     |  |                                |     |                             |  +--| (98.2/98/100/100)
+|     |  |                                |     |                             |     |  +--Utricularia_intermedia
+|     |  |                                |     |                             |     +--| (100/100/100/100)
+|     |  |                                |     |                             |        +--Utricularia_vulgaris
+|     |  |                                |     |                          +--| (100/100/100/100)
+|     |  |                                |     |                          |  +--Utricularia_aurea
+|     |  |                                |     |                       +--| (100/100/100/100)
+|     |  |                                |     |                       |  +--Utricularia_gibba
+|     |  |                                |     |                    +--| (100/100/100/100)
+|     |  |                                |     |                    |  |     +--Utricularia_cucullata
+|     |  |                                |     |                    |  |  +--| (100/100/100/100)
+|     |  |                                |     |                    |  |  |  +---Utricularia_olivacea
+|     |  |                                |     |                    |  +--| (100/100/100/100)
+|     |  |                                |     |                    |     |  +--Utricularia_flaccida
+|     |  |                                |     |                    |     +--| (100/100/100/100)
+|     |  |                                |     |                    |        |  +--Utricularia_neottioides
+|     |  |                                |     |                    |        +--| (100/100/100/100)
+|     |  |                                |     |                    |           |  +--Utricularia_subulata
+|     |  |                                |     |                    |           +--| (100/100/100/100)
+|     |  |                                |     |                    |              +--Utricularia_triloba
+|     |  |                                |     |                 +--| (100/100/100/100)
+|     |  |                                |     |                 |  |        +--Utricularia_amethystina
+|     |  |                                |     |                 |  |     +--| (100/100/100/100)
+|     |  |                                |     |                 |  |     |  +--Utricularia_tricolor
+|     |  |                                |     |                 |  |  +--| (100/100/100/100)
+|     |  |                                |     |                 |  |  |  |  +--Utricularia_hispida
+|     |  |                                |     |                 |  |  |  +--| (100/100/100/100)
+|     |  |                                |     |                 |  |  |     +--Utricularia_longifolia
+|     |  |                                |     |                 |  +--| (100/100/100/100)
+|     |  |                                |     |                 |     |     +--Utricularia_reniformis
+|     |  |                                |     |                 |     |  +--| (100/100/100/100)
+|     |  |                                |     |                 |     |  |  |  +--Utricularia_geminiloba
+|     |  |                                |     |                 |     |  |  +--| (100/100/100/100)
+|     |  |                                |     |                 |     |  |     +--Utricularia_nelumbifolia
+|     |  |                                |     |                 |     +--| (100/100/100/100)
+|     |  |                                |     |                 |        +--Utricularia_nephrophylla
+|     |  |                                |     |              +--| (100/100/100/100)
+|     |  |                                |     |              |  |        +--Utricularia_adpressa
+|     |  |                                |     |              |  |     +--| (99.8/100/100/100)
+|     |  |                                |     |              |  |     |  +----Utricularia_graminifolia
+|     |  |                                |     |              |  |  +--| (100/100/99.9/100)
+|     |  |                                |     |              |  |  |  +--Utricularia_simulans
+|     |  |                                |     |              |  +--| (100/100/100/100)
+|     |  |                                |     |              |     |  +--Utricularia_arenaria
+|     |  |                                |     |              |     +--| (100/100/100/100)
+|     |  |                                |     |              |        +--Utricularia_pubescens
+|     |  |                                |     |           +--| (100/100/100/100)
+|     |  |                                |     |           |  +--Utricularia_volubilis
+|     |  |                                |     |        +--| (100/100/100/100)
+|     |  |                                |     |        |  |     +--Genlisea_margaretae
+|     |  |                                |     |        |  |  +--| (100/100/100/100)
+|     |  |                                |     |        |  |  |  |     +--Genlisea_aurea
+|     |  |                                |     |        |  |  |  |  +--| (100/100/100/100)
+|     |  |                                |     |        |  |  |  |  |  +--Genlisea_tuberosa
+|     |  |                                |     |        |  |  |  +--| (100/100/100/100)
+|     |  |                                |     |        |  |  |     |  +--Genlisea_filiformis
+|     |  |                                |     |        |  |  |     +--| (100/100/100/100)
+|     |  |                                |     |        |  |  |        |  +--Genlisea_pygmaea
+|     |  |                                |     |        |  |  |        +--| (100/100/100/100)
+|     |  |                                |     |        |  |  |           +--Genlisea_repens
+|     |  |                                |     |        |  +--| (100/100/100/100)
+|     |  |                                |     |        |     +--Genlisea_violacea
+|     |  |                                |     |     +--| (89.2/67/100/100)
+|     |  |                                |     |     |  |        +--Pinguicula_ehlersiae
+|     |  |                                |     |     |  |     +--| (100/100/100/100)
+|     |  |                                |     |     |  |     |  +--Pinguicula_jackii
+|     |  |                                |     |     |  |  +--| (99.3/100/99.6/100)
+|     |  |                                |     |     |  |  |  +--Pinguicula_alpina
+|     |  |                                |     |     |  +--| (100/100/100/100)
+|     |  |                                |     |     |     |  +--Pinguicula_vulgaris
+|     |  |                                |     |     |     +--| (100/100/100/100)
+|     |  |                                |     |     |        +--Pinguicula_leptoceras
+|     |  |                                |     |  +--| (100/100/88.8/74)
+|     |  |                                |     |  |  |           +--Andrographis_paniculata
+|     |  |                                |     |  |  |        +--| (100/100/100/100)
+|     |  |                                |     |  |  |        |  +--Barleria_acanthoides
+|     |  |                                |     |  |  |     +--| (100/100/100/100)
+|     |  |                                |     |  |  |     |  |  +--Asystasia_gangetica
+|     |  |                                |     |  |  |     |  +--| (99.5/98/98.6/96)
+|     |  |                                |     |  |  |     |     +--Asteracantha_longifolia
+|     |  |                                |     |  |  |  +--| (100/100/100/100)
+|     |  |                                |     |  |  |  |  |  +--Aphelandra_knappiae
+|     |  |                                |     |  |  |  |  +--| (100/100/100/100)
+|     |  |                                |     |  |  |  |     |  +--Blepharis_ciliaris
+|     |  |                                |     |  |  |  |     +--| (100/100/100/100)
+|     |  |                                |     |  |  |  |        +--Acanthus_leucostachyus
+|     |  |                                |     |  |  +--| (100/100/100/100)
+|     |  |                                |     |  |     +--Avicennia_marina
+|     |  |                                |     +--| (95.9/88/95.6/95)
+|     |  |                                |        |           +--Chilopsis_linearis
+|     |  |                                |        |        +--| (100/100/100/100)
+|     |  |                                |        |        |  +--Catalpa_ovata
+|     |  |                                |        |     +--| (100/100/100/100)
+|     |  |                                |        |     |  |  +--Adenocalymma_allamandiflorum
+|     |  |                                |        |     |  +--| (100/100/100/100)
+|     |  |                                |        |     |     |        +--Anemopaegma_foetidum
+|     |  |                                |        |     |     |     +--| (89.1/85/92.8/90)
+|     |  |                                |        |     |     |     |  +--Bignonia_magnifica
+|     |  |                                |        |     |     |  +--| (100/100/100/100)
+|     |  |                                |        |     |     |  |  +--Amphilophium_carolinae
+|     |  |                                |        |     |     +--| (100/100/100/100)
+|     |  |                                |        |     |        +--Dolichandra_cynanchoides
+|     |  |                                |        |  +--| (100/100/100/100)
+|     |  |                                |        |  |  +--Campsis_radicans
+|     |  |                                |        +--| (99/74/99.2/80)
+|     |  |                                |           +--Martynia_annua
+|     |  |                             +--| (100/100/100/100)
+|     |  |                             |  |           +--Aragoa_cleefii
+|     |  |                             |  |        +--| (100/100/100/100)
+|     |  |                             |  |        |  +--Digitalis_grandiflora
+|     |  |                             |  |     +--| (100/100/100/100)
+|     |  |                             |  |     |  +--Callitriche_cophocarpa
+|     |  |                             |  |  +--| (100/100/100/100)
+|     |  |                             |  |  |  |     +--Antirrhinum_majus
+|     |  |                             |  |  |  |  +--| (100/100/100/100)
+|     |  |                             |  |  |  |  |  +--Chaenorhinum_minus
+|     |  |                             |  |  |  +--| (100/100/100/100)
+|     |  |                             |  |  |     +--Cymbalaria_muralis
+|     |  |                             |  +--| (100/100/100/100)
+|     |  |                             |     |     +--Bacopa_monnieri
+|     |  |                             |     |  +--| (100/100/100/100)
+|     |  |                             |     |  |  |  +--Deinostema_violacea
+|     |  |                             |     |  |  +--| (100/100/100/100)
+|     |  |                             |     |  |     +--Adenosma_bracteosa
+|     |  |                             |     +--| (100/100/100/100)
+|     |  |                             |        +--Angelonia_angustifolia
+|     |  |                          +--| (100/100/100/100)
+|     |  |                          |  |                                +--Arbutus_unedo
+|     |  |                          |  |                             +--| (100/100/100/100)
+|     |  |                          |  |                             |  |              +--Monotropa_hypopitys
+|     |  |                          |  |                             |  |           +--| (100/100/100/100)
+|     |  |                          |  |                             |  |           |  +--Pityopus_californicus
+|     |  |                          |  |                             |  |        +--| (100/100/100/100)
+|     |  |                          |  |                             |  |        |  |  +-----Allotropa_virgata
+|     |  |                          |  |                             |  |        |  +--| (79.9/80/76/78)
+|     |  |                          |  |                             |  |        |     +---Hemitomes_congestum
+|     |  |                          |  |                             |  |  +-----| (100/100/100/100)
+|     |  |                          |  |                             |  |  |     |                 +-------------Monotropa_uniflora
+|     |  |                          |  |                             |  |  |     |             +---| (100/100/100/100)
+|     |  |                          |  |                             |  |  |     |             |   +-----Monotropa_callistoma
+|     |  |                          |  |                             |  |  |     |  +----------| (100/100/100/100)
+|     |  |                          |  |                             |  |  |     |  |          +--------Monotropastrum_humile
+|     |  |                          |  |                             |  |  |     +--| (100/100/100/100)
+|     |  |                          |  |                             |  |  |        +-------------Monotropsis_odorata
+|     |  |                          |  |                             |  +--| (100/100/100/100)
+|     |  |                          |  |                             |     +---------Pterospora_andromedea
+|     |  |                          |  |                          +--| (100/100/35.1/60)
+|     |  |                          |  |                          |  |    +--Pyrola_rotundifolia
+|     |  |                          |  |                          |  +----| (100/100/100/100)
+|     |  |                          |  |                          |       |  +--Pyrola_atropurpurea
+|     |  |                          |  |                          |       +--| (100/100/100/100)
+|     |  |                          |  |                          |          +**Pyrola_decorata
+|     |  |                          |  |                       +--| (50.9/67/100/100)
+|     |  |                          |  |                       |  |           +--Gaultheria_griffithiana
+|     |  |                          |  |                       |  |        +--| (100/100/100/100)
+|     |  |                          |  |                       |  |        |  +--Gaultheria_pyrolifolia
+|     |  |                          |  |                       |  |     +--| (100/100/100/100)
+|     |  |                          |  |                       |  |     |  +--Gaultheria_sinensis
+|     |  |                          |  |                       |  |  +--| (100/100/100/100)
+|     |  |                          |  |                       |  |  |  |  +--Vaccinium_angustifolium
+|     |  |                          |  |                       |  |  |  +--| (100/100/100/100)
+|     |  |                          |  |                       |  |  |     |     +--Agapetes_guangxiensis
+|     |  |                          |  |                       |  |  |     |  +--| (100/100/100/100)
+|     |  |                          |  |                       |  |  |     |  |  +--Agapetes_lacei
+|     |  |                          |  |                       |  |  |     +--| (100/100/100/100)
+|     |  |                          |  |                       |  |  |        |  +--Agapetes_obovata
+|     |  |                          |  |                       |  |  |        +--| (100/100/100/100)
+|     |  |                          |  |                       |  |  |           +--Vaccinium_supracostatum
+|     |  |                          |  |                       |  +--| (100/100/100/100)
+|     |  |                          |  |                       |     |  +--Rhododendron_schlippenbachii
+|     |  |                          |  |                       |     +--| (100/100/100/100)
+|     |  |                          |  |                       |        +--Rhododendron_spinuliferum
+|     |  |                          |  |                    +--| (100/100/100/100)
+|     |  |                          |  |                    |  |    +--Enkianthus_nudipes
+|     |  |                          |  |                    |  +----| (100/100/100/100)
+|     |  |                          |  |                    |       |  +--Enkianthus_cernuus
+|     |  |                          |  |                    |       +--| (100/100/100/100)
+|     |  |                          |  |                    |          +--Enkianthus_sikokianus
+|     |  |                          |  |                 +--| (100/100/78.5/62)
+|     |  |                          |  |                 |  |           +--Actinidia_tetramera
+|     |  |                          |  |                 |  |        +--| (100/100/100/100)
+|     |  |                          |  |                 |  |        |  |  +--Actinidia_chrysantha
+|     |  |                          |  |                 |  |        |  +--| (100/100/100/100)
+|     |  |                          |  |                 |  |        |     +--Actinidia_suberifolia
+|     |  |                          |  |                 |  |     +--| (100/100/100/100)
+|     |  |                          |  |                 |  |     |  +--Clematoclethra_scandens
+|     |  |                          |  |                 |  |  +--| (100/100/100/100)
+|     |  |                          |  |                 |  |  |  |  +--Saurauia_napaulensis
+|     |  |                          |  |                 |  |  |  +--| (100/100/100/100)
+|     |  |                          |  |                 |  |  |     +--Saurauia_polyneura
+|     |  |                          |  |                 |  +--| (100/100/100/100)
+|     |  |                          |  |                 |     +-----Roridula_gorgonias
+|     |  |                          |  |              +--| (99.6/56/35.7/37)
+|     |  |                          |  |              |  |  +--Clethra_delavayi
+|     |  |                          |  |              |  +--| (100/100/100/100)
+|     |  |                          |  |              |     |  +--Clethra_fargesii
+|     |  |                          |  |              |     +--| (17.1/45/32.1/49)
+|     |  |                          |  |              |        +--Clethra_petelotii
+|     |  |                          |  |           +--| (100/56/100/100)
+|     |  |                          |  |           |  |        +**Sarracenia_alata
+|     |  |                          |  |           |  |     +--| (100/100/100/100)
+|     |  |                          |  |           |  |     |  +--Sarracenia_leucophylla
+|     |  |                          |  |           |  |  +--| (100/100/100/100)
+|     |  |                          |  |           |  |  |  +--Heliamphora_minor
+|     |  |                          |  |           |  +--| (100/100/100/100)
+|     |  |                          |  |           |     +--Darlingtonia_californica
+|     |  |                          |  |        +--| (99.4/99/14.5/42)
+|     |  |                          |  |        |  |  +--Symplocos_coreana
+|     |  |                          |  |        |  +--| (100/100/100/100)
+|     |  |                          |  |        |     +--Styrax_rugosus
+|     |  |                          |  |     +--| (8.1/37/99/99)
+|     |  |                          |  |     |  +--Camellia_sinensis
+|     |  |                          |  |  +--| (89/73/86.2/78)
+|     |  |                          |  |  |  +--Pentaphylax_euryoides
+|     |  |                          |  +--| (76.4/72/100/100)
+|     |  |                          |     |  +--Diospyros_kaki
+|     |  |                          |     +--| (100/100/69.9/75)
+|     |  |                          |        +-----Primula_veris
+|     |  |                       +--| (99.7/99/99.9/100)
+|     |  |                       |  |           +--Nepenthes_khasiana
+|     |  |                       |  |        +--| (100/100/100/100)
+|     |  |                       |  |        |  |     +--Nepenthes_mirabilis
+|     |  |                       |  |        |  |  +--| (100/100/100/100)
+|     |  |                       |  |        |  |  |  +--Nepenthes_gracilis
+|     |  |                       |  |        |  +--| (100/100/100/100)
+|     |  |                       |  |        |     +--Nepenthes_ventricosa_x_Nepenthes_alata
+|     |  |                       |  |     +--| (100/100/100/100)
+|     |  |                       |  |     |  |                 +--Drosera_peltata
+|     |  |                       |  |     |  |            +----| (100/100/100/100)
+|     |  |                       |  |     |  |            |    +--Drosera_erythrorhiza
+|     |  |                       |  |     |  |         +--| (100/100/100/100)
+|     |  |                       |  |     |  |         |  |       +--Drosera_rotundifolia
+|     |  |                       |  |     |  |         |  +-------| (100/100/100/100)
+|     |  |                       |  |     |  |         |          +--Drosera_capensis
+|     |  |                       |  |     |  |  +------| (100/100/100/100)
+|     |  |                       |  |     |  |  |      |  +--Drosera_regia
+|     |  |                       |  |     |  |  |      +--| (13/53/67.9/71)
+|     |  |                       |  |     |  |  |         |  +--Aldrovanda_vesiculosa
+|     |  |                       |  |     |  |  |         +--| (100/100/100/100)
+|     |  |                       |  |     |  |  |            +----Dionaea_muscipula
+|     |  |                       |  |     |  +--| (48.4/66/85.5/87)
+|     |  |                       |  |     |     |  +--Drosophyllum_lusitanicum
+|     |  |                       |  |     |     +--| (100/100/100/100)
+|     |  |                       |  |     |        |  +--Ancistrocladus_tectorius
+|     |  |                       |  |     |        +--| (100/100/100/100)
+|     |  |                       |  |     |           |     +--Dioncophyllum_thollonii
+|     |  |                       |  |     |           |  +--| (94.6/93/97/93)
+|     |  |                       |  |     |           |  |  +--Triphyophyllum_peltatum
+|     |  |                       |  |     |           +--| (100/100/100/100)
+|     |  |                       |  |     |              +--Habropetalum_dawei
+|     |  |                       |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |  |              +--Plumbago_auriculata
+|     |  |                       |  |  |  |           +--| (100/100/100/100)
+|     |  |                       |  |  |  |           |  +--Plumbago_zeylanica
+|     |  |                       |  |  |  |        +--| (100/100/100/100)
+|     |  |                       |  |  |  |        |  |   +--Ceratostigma_plumbaginoides
+|     |  |                       |  |  |  |        |  +---| (100/100/100/100)
+|     |  |                       |  |  |  |        |      |  +--Ceratostigma_griffithii
+|     |  |                       |  |  |  |        |      +--| (99.2/99/99.7/100)
+|     |  |                       |  |  |  |        |         +--Ceratostigma_minus
+|     |  |                       |  |  |  |     +--| (100/100/100/100)
+|     |  |                       |  |  |  |     |  |     +--Limonium_tenellum
+|     |  |                       |  |  |  |     |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |  |     |  |  |  +--Limonium_tetragonum
+|     |  |                       |  |  |  |     |  +--| (100/100/100/100)
+|     |  |                       |  |  |  |     |     +--Limonium_bonduellei
+|     |  |                       |  |  |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |           +--Calligonum_klementzii
+|     |  |                       |  |  |  |  |  |        +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |        |  |              +--Muehlenbeckia_australis
+|     |  |                       |  |  |  |  |  |        |  |           +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |        |  |           |  +--Fallopia_aubertii
+|     |  |                       |  |  |  |  |  |        |  |        +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |        |  |        |  +--Pleuropterus_angulatus
+|     |  |                       |  |  |  |  |  |        |  |     +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |        |  |     |  +--Atraphaxis_spinosa
+|     |  |                       |  |  |  |  |  |        |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |        |  |  |  +--Knorringia_sibirica
+|     |  |                       |  |  |  |  |  |        |  +--| (99.1/100/99.8/100)
+|     |  |                       |  |  |  |  |  |        |     +--Oxyria_digyna
+|     |  |                       |  |  |  |  |  |     +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |     |  +--Fagopyrum_esculentum
+|     |  |                       |  |  |  |  |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |  |  |     +--Koenigia_forrestii
+|     |  |                       |  |  |  |  |  |  |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |  |  |  |  |  +--Polygonum_milletii
+|     |  |                       |  |  |  |  |  |  |  |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |  |  |  |     +--Bistorta_ochotensis
+|     |  |                       |  |  |  |  |  |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |  |  |     +--Persicaria_amphibia
+|     |  |                       |  |  |  |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |     |  +--Coccoloba_uvifera
+|     |  |                       |  |  |  |  |     +--| (100/100/100/100)
+|     |  |                       |  |  |  |  |        +--Eriogonum_grande
+|     |  |                       |  |  |  +--| (99.9/100/100/100)
+|     |  |                       |  |  |     |        +--Reaumuria_trigyna
+|     |  |                       |  |  |     |     +--| (100/100/100/100)
+|     |  |                       |  |  |     |     |  +--Reaumuria_songarica
+|     |  |                       |  |  |     |  +--| (100/100/100/100)
+|     |  |                       |  |  |     |  |  |     +--Myricaria_paniculata
+|     |  |                       |  |  |     |  |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |     |  |  |  |  +--Myricaria_elegans
+|     |  |                       |  |  |     |  |  +--| (100/100/100/100)
+|     |  |                       |  |  |     |  |     |  +--Tamarix_gracilis
+|     |  |                       |  |  |     |  |     +--| (100/100/100/100)
+|     |  |                       |  |  |     |  |        +--Tamarix_hispida
+|     |  |                       |  |  |     +--| (100/100/100/100)
+|     |  |                       |  |  |        |   +--Frankenia_laevis
+|     |  |                       |  |  |        +---| (100/100/100/100)
+|     |  |                       |  |  |            +--Frankenia_pulverulenta
+|     |  |                       |  +--| (100/100/100/100)
+|     |  |                       |     |             +--Kroenleinia_grusonii
+|     |  |                       |     |          +--| (100/100/100/100)
+|     |  |                       |     |          |  |  +--Leuchtenbergia_principis
+|     |  |                       |     |          |  +--| (100/100/100/100)
+|     |  |                       |     |          |     +--Ferocactus_setispinus
+|     |  |                       |     |       +--| (100/100/100/100)
+|     |  |                       |     |       |  |     +--Carnegiea_gigantea
+|     |  |                       |     |       |  |  +--| (100/100/100/100)
+|     |  |                       |     |       |  |  |  +--Cephalocereus_tetetzo
+|     |  |                       |     |       |  +--| (100/100/100/100)
+|     |  |                       |     |       |     |     +--Cleistocactus_hyalacanthus
+|     |  |                       |     |       |     |  +--| (100/100/100/100)
+|     |  |                       |     |       |     |  |  +--Echinopsis_candicans
+|     |  |                       |     |       |     +--| (100/100/100/100)
+|     |  |                       |     |       |        +--Cereus_fernambucensis
+|     |  |                       |     |    +--| (93.9/91/100/100)
+|     |  |                       |     |    |  |  +--Consolea_rubescens
+|     |  |                       |     |    |  +--| (100/100/100/100)
+|     |  |                       |     |    |     |  +--Airampoa_erectoclada
+|     |  |                       |     |    |     +--| (100/100/89.3/88)
+|     |  |                       |     |    |        +--Brasiliopuntia_schulzii
+|     |  |                       |     +----| (100/100/100/100)
+|     |  |                       |          +--Leuenbergeria_portulacifolia
+|     |  |                    +--| (100/100/100/100)
+|     |  |                    |  |              +--Brunellia_trianae
+|     |  |                    |  |           +--| (100/100/100/100)
+|     |  |                    |  |           |  +--Brunellia_antioquensis
+|     |  |                    |  |        +--| (100/100/100/100)
+|     |  |                    |  |        |  +--Brunellia_mexicana
+|     |  |                    |  |     +--| (100/100/24.5/56)
+|     |  |                    |  |     |  +--Cephalotus_follicularis
+|     |  |                    |  |  +--| (100/100/100/100)
+|     |  |                    |  |  |  |           +--Aristotelia_chilensis
+|     |  |                    |  |  |  |        +--| (100/100/100/100)
+|     |  |                    |  |  |  |        |  +--Aristotelia_fruticosa
+|     |  |                    |  |  |  |     +--| (100/100/100/100)
+|     |  |                    |  |  |  |     |  +--Vallea_stipularis
+|     |  |                    |  |  |  |  +--| (100/100/100/100)
+|     |  |                    |  |  |  |  |  |  +--Sloanea_cordifolia
+|     |  |                    |  |  |  |  |  +--| (100/100/100/100)
+|     |  |                    |  |  |  |  |     +--Sloanea_longiaculeata
+|     |  |                    |  |  |  +--| (100/100/100/100)
+|     |  |                    |  |  |     |     +--Elaeocarpus_angustifolius
+|     |  |                    |  |  |     |  +--| (100/100/100/100)
+|     |  |                    |  |  |     |  |  +--Elaeocarpus_braceanus
+|     |  |                    |  |  |     +--| (100/100/100/100)
+|     |  |                    |  |  |        +--Crinodendron_patagua
+|     |  |                    |  +--| (17.8/52/100/100)
+|     |  |                    |     |        +--Averrhoa_bilimbi
+|     |  |                    |     |     +--| (100/100/100/100)
+|     |  |                    |     |     |  +--Averrhoa_carambola
+|     |  |                    |     |  +--| (100/100/100/100)
+|     |  |                    |     |  |  +--Biophytum_sensitivum
+|     |  |                    |     +--| (100/100/100/100)
+|     |  |                    |        |        +--Oxalis_mollendoensis
+|     |  |                    |        |     +--| (100/100/100/100)
+|     |  |                    |        |     |  +--Oxalis_megalorrhiza
+|     |  |                    |        |  +--| (100/100/100/100)
+|     |  |                    |        |  |  +--Oxalis_lomana
+|     |  |                    |        +--| (100/100/100/100)
+|     |  |                    |           |  +--Oxalis_triangularis
+|     |  |                    |           +--| (100/100/100/100)
+|     |  |                    |              +--Oxalis_articulata
+|     |  |                 +--|
+|     |  |                 |  +------Amborella_trichopoda
+|     |  |              +--| (100/100)
+|     |  |              |  |        +--Tofieldia_ulleungensis
+|     |  |              |  |     +--| (100/100)
+|     |  |              |  |     |  +--Tofieldia_coccinea_var_kondoi
+|     |  |              |  |  +--| (100/100)
+|     |  |              |  |  |  +--Tofieldia_yoshiiana_var_kanwonensis
+|     |  |              |  +--| (100/100)
+|     |  |              |     +--Triantha_occidentalis
+|     |  |           +--| (100/100/100/100)
+|     |  |           |  |  +--Rapatea_paludosa
+|     |  |           |  +--| (59.6/69/100/100)
+|     |  |           |     +-----------Paepalanthus_alpinus
+|     |  |        +--| (100/100/100/100)
+|     |  |        |  |           +--Brocchinia_acuminata
+|     |  |        |  |        +--| (100/100/100/100)
+|     |  |        |  |        |  +--Brocchinia_micrantha
+|     |  |        |  |     +--| (100/100/99.9/100)
+|     |  |        |  |     |  |  +--Brocchinia_hechtioides
+|     |  |        |  |     |  +--| (100/100/100/100)
+|     |  |        |  |     |     +**Brocchinia_reducta
+|     |  |        |  |  +--| (100/100/100/100)
+|     |  |        |  |  |  +--Brocchinia_tatei
+|     |  |        |  +--| (100/100/100/100)
+|     |  |        |     +--Brocchinia_paniculata
+|     |  |     +--| (100/100/100/100)
+|     |  |     |  |        +--Cryptanthus_acaulis
+|     |  |     |  |     +--| (100/100/100/100)
+|     |  |     |  |     |  |  +--Billbergia_horrida
+|     |  |     |  |     |  +--| (100/100/100/100)
+|     |  |     |  |     |     +--Aechmea_fasciata
+|     |  |     |  |  +--| (100/100/100/100)
+|     |  |     |  |  |  |  +--Pitcairnia_breedlovei
+|     |  |     |  |  |  +--| (100/100/100/100)
+|     |  |     |  |  |     +--Pitcairnia_atrorubens
+|     |  |     |  +--| (79.9/75/82.4/76)
+|     |  |     |     +--Navia_igneosicola
+|     |  |  +--| (85.8/78/85.3/79)
+|     |  |  |  |  +--Bakerantha_tillandsioides
+|     |  |  |  +--| (100/100/100/100)
+|     |  |  |     +--Hechtia_deceptrix
+|     |  +--| (100/100/100/100)
+|     |     |     +--Catopsis_sessiliflora
+|     |     |  +--| (100/100/100/100)
+|     |     |  |  +--Catopsis_nutans
+|     |     +--| (100/100/100/100)
+|     |        +--Catopsis_paniculata
+|  +--| (100/100/100/100)
+|  |  +--Vriesea_vagans
++--| (100/100/99.7/100)
+|  +--Werauhia_vanhyningii
+|
++--Zizkaea_tuerckheimii
+
+Tree in newick format:
+
+(Cipuropsis_capituligera:0.0013109339,(((((Racinaea_ropalocarpa:0.0030866032,Tillandsia_rubroviolacea:0.0020195421)0/44/0.9/47:0.0000840786,Pseudalcantarea_viridiflora:0.0021553501)100/100/100/100:0.0016682123,((((((((((((Byblis_gigantea:0.0599342194,(((((((((((((((Orobanche_cernua:0.0233348637,((Orobanche_gracilis:0.0117526848,Orobanche_austrohispanica:0.0149919483)100/100/100/100:0.0152016113,Orobanche_densiflora:0.0258023358)99.9/100/100/100:0.0067827960)100/100/99.7/100:0.0021765783,(((Orobanche_crenata:0.0159523075,Orobanche_pancicii:0.0172245224)100/100/100/100:0.0051120883,Orobanche_rapum-genistae:0.0122487146)100/100/100/100:0.0028507376,((Orobanche_coerulescens:0.0039644397,Orobanche_pycnostachya:0.0017570668)100/100/99.9/100:0.0018610347,Orobanche_boninsimae:0.0058159240)100/100/100/100:0.0120956162)78.2/91/73.8/87:0.0003174700)100/100/100/100:0.0325241450,Phacellanthus_tubiflorus:0.0571259154)100/100/100/100:0.0563257607,Diphelypaea_coccinea:0.2902671619)98.8/98/99.5/100:0.0113870566,Orobanche_latisquama:0.0690280887)100/100/100/100:0.0085490978,(((Phelipanche_aegyptiaca:0.0028603387,Phelipanche_ramosa:0.0016249697)100/100/100/100:0.0399164807,Phelipanche_purpurea:0.0568340987)100/100/100/100:0.1497349440,((Aphyllon_epigalium:0.0308620782,(Aphyllon_uniflorum:0.0179425743,Aphyllon_fasciculatum:0.0188599926)100/100/100/100:0.0093798279)100/100/100/100:0.0290190857,Aphyllon_californicum:0.0209099113)100/100/100/100:0.0196712715)100/100/99.9/100:0.0060563496)99.9/100/100/100:0.0034759576,(((Epifagus_virginiana:0.0774015146,Conopholis_americana:0.0487216562)100/100/100/100:0.0345520536,Xylanche_himalaica:0.0291566077)100/100/99.8/98:0.0042729188,((Cistanche_deserticola:0.0280735282,Cistanche_phelypaea:0.0388144219)79.3/77/100/100:0.0342702481,Gleadovia_mupinensis:0.0305295680)100/100/82.6/80:0.0016544901)80.8/77/85.3/83:0.0011902634)82.8/81/100/100:0.0027123987,((Centranthera_grandiflora:0.0277647466,Striga_asiatica:0.0811643411)100/100/100/100:0.0111020638,(Aeginetia_indica:0.0185435906,Aeginetia_sinensis:0.0223468775)100/100/100/100:0.0897010626)99.5/98/100/100:0.0148446559)100/100/95.9/95:0.0006684596,(((((((Lathraea_squamaria:0.0066305045,Lathraea_japonica:0.0100150344)100/100/100/100:0.0068479828,Rhinanthus_alectorolophus:0.0146281186)100/100/100/100:0.0098593711,(Bartsia_alpina:0.0030410643,Euphrasia_cisalpina:0.0280039403)100/100/100/100:0.0038265232)100/100/100/100:0.0033724308,Melampyrum_setaceum:0.0241314674)100/100/100/100:0.0190301399,(Brandisia_discolor:0.0015506434,Brandisia_scandens:0.0024753640)100/100/100/100:0.0048375404)58.7/59/65.4/68:0.0003962891,Pterygiella_tenuisecta:0.0164030584)100/100/99.9/100:0.0009508208,((((((Castilleja_paramensis:0.0046829679,Castilleja_mendocinensis:0.0024736354)100/100/100/100:0.0007056194,Triphysaria_versicolor:0.0045061247)100/100/100/100:0.0038069227,Chloropyron_palmatum:0.0084211834)100/100/100/100:0.0058795422,Agalinis_fasciculata:0.0474900749)100/100/100/100:0.0012640253,Phtheirospermum_japonicum:0.0063466442)100/100/100/100:0.0034485449,Pedicularis_armata:0.0337609252)100/100/100/100:0.0104674884)100/100/100/100:0.0025078976)99.8/99/100/100:0.0013384032,(Siphonostegia_chinensis:0.0335702117,((Cymbaria_daurica:0.0080628929,Cymbaria_mongolica:0.0141348851)100/100/100/100:0.0583672821,Monochasma_savatieri:0.0425566616)100/100/100/100:0.0332244683)100/100/100/100:0.0197344792)100/100/100/100:0.0019293131,(Lindenbergia_philippensis:0.0141108980,Lindenbergia_indica:0.0177647983)100/100/100/100:0.0123532966)100/100/100/100:0.0074039532,(((((Rehmannia_chingii:0.0002738461,Rehmannia_elata:0.0002084757)96.1/100/100/100:0.0008709036,Rehmannia_piasezkii:0.0012133498)100/100/99.7/100:0.0003174166,(Rehmannia_glutinosa:0.0002980149,Rehmannia_chrysantha:0.0005405571)100/100/100/100:0.0008743318)99.2/100/93.6/100:0.0001163185,(Rehmannia_henryi:0.0000010003,Rehmannia_solanifolia:0.0000010003)100/100/100/100:0.0012912416)100/100/100/100:0.0051202511,Triaenophora_shennongjiaensis:0.0152649369)100/100/100/100:0.0097114689)100/100/100/100:0.0025822071,((Paulownia_tomentosa:0.0001823389,Paulownia_catalpifolia:0.0003830472)84/84/89.6/90:0.0000702618,Paulownia_elongata:0.0005137571)100/100/100/100:0.0093504075)100/100/100/100:0.0011391874,((((Anisomeles_indica:0.0136155968,((Ballota_nigra:0.0152752987,Ajugoides_humilis:0.0048654486)100/100/100/100:0.0022434626,Betonica_alopecuros:0.0115495129)100/100/100/100:0.0090353822)100/100/100/100:0.0123069512,(Amethystea_caerulea:0.0138140678,Ajuga_macrosperma:0.0161119406)100/100/100/100:0.0133720067)99.9/100/100/100:0.0015530547,Agastache_rugosa:0.0395636493)100/100/99.9/100:0.0011798881,Callicarpa_longissima:0.0075800282)100/100/100/100:0.0067115262)100/100/100/100:0.0011168976,(((((((((((Utricularia_foliosa:0.0143684474,((((Utricularia_macrorhiza:0.0125369347,Utricularia_australis:0.0001271639)97.4/98/97.7/97:0.0004164146,Utricularia_tenuicaulis:0.0005556962)100/100/100/100:0.0014737825,Utricularia_minor:0.0021301313)100/100/98.5/98:0.0003641268,(Utricularia_intermedia:0.0010825089,Utricularia_vulgaris:0.0357789444)100/100/100/100:0.0025597157)98.2/98/100/100:0.0034199780)100/100/100/100:0.0034378538,Utricularia_aurea:0.0462121102)100/100/100/100:0.0096103485,Utricularia_gibba:0.0219315392)100/100/100/100:0.0135553392,((Utricularia_cucullata:0.0289302451,Utricularia_olivacea:0.0541629067)100/100/100/100:0.0058336918,(Utricularia_flaccida:0.0260382250,(Utricularia_neottioides:0.0181971518,(Utricularia_subulata:0.0027067706,Utricularia_triloba:0.0037423134)100/100/100/100:0.0132839375)100/100/100/100:0.0129016444)100/100/100/100:0.0025046357)100/100/100/100:0.0159300893)100/100/100/100:0.0075954092,(((Utricularia_amethystina:0.0096048045,Utricularia_tricolor:0.0062870891)100/100/100/100:0.0244200152,(Utricularia_hispida:0.0187606070,Utricularia_longifolia:0.0111886409)100/100/100/100:0.0061031419)100/100/100/100:0.0045748137,((Utricularia_reniformis:0.0021023100,(Utricularia_geminiloba:0.0020347852,Utricularia_nelumbifolia:0.0013401686)100/100/100/100:0.0009526970)100/100/100/100:0.0043483506,Utricularia_nephrophylla:0.0054086492)100/100/100/100:0.0259570216)100/100/100/100:0.0034839212)100/100/100/100:0.0049032349,(((Utricularia_adpressa:0.0363593840,Utricularia_graminifolia:0.0671695566)99.8/100/100/100:0.0179061990,Utricularia_simulans:0.0434518914)100/100/99.9/100:0.0023011833,(Utricularia_arenaria:0.0226870461,Utricularia_pubescens:0.0355731604)100/100/100/100:0.0106504909)100/100/100/100:0.0014178836)100/100/100/100:0.0038271140,Utricularia_volubilis:0.0263019096)100/100/100/100:0.0160760878,((Genlisea_margaretae:0.0135837609,((Genlisea_aurea:0.0016745021,Genlisea_tuberosa:0.0027921408)100/100/100/100:0.0072390025,(Genlisea_filiformis:0.0057594876,(Genlisea_pygmaea:0.0005527920,Genlisea_repens:0.0009515065)100/100/100/100:0.0026678670)100/100/100/100:0.0036242082)100/100/100/100:0.0144411679)100/100/100/100:0.0369411600,Genlisea_violacea:0.0315834363)100/100/100/100:0.0115636582)100/100/100/100:0.0208903298,(((Pinguicula_ehlersiae:0.0042175000,Pinguicula_jackii:0.0028928542)100/100/100/100:0.0040054614,Pinguicula_alpina:0.0071238517)99.3/100/99.6/100:0.0009780211,(Pinguicula_vulgaris:0.0032511874,Pinguicula_leptoceras:0.0034456916)100/100/100/100:0.0170642801)100/100/100/100:0.0217963944)89.2/67/100/100:0.0270671189,((((Andrographis_paniculata:0.0348787744,Barleria_acanthoides:0.0191871599)100/100/100/100:0.0066161089,(Asystasia_gangetica:0.0406005819,Asteracantha_longifolia:0.0456801433)99.5/98/98.6/96:0.0024861298)100/100/100/100:0.0120366338,(Aphelandra_knappiae:0.0127710035,(Blepharis_ciliaris:0.0170199636,Acanthus_leucostachyus:0.0127286675)100/100/100/100:0.0100531579)100/100/100/100:0.0198480265)100/100/100/100:0.0026510932,Avicennia_marina:0.0311884415)100/100/100/100:0.0080329149)100/100/88.8/74:0.0005327616,((((Chilopsis_linearis:0.0029826050,Catalpa_ovata:0.0037968114)100/100/100/100:0.0046387886,(Adenocalymma_allamandiflorum:0.0251980989,(((Anemopaegma_foetidum:0.0132062416,Bignonia_magnifica:0.0141360954)89.1/85/92.8/90:0.0018246725,Amphilophium_carolinae:0.0183358108)100/100/100/100:0.0058810068,Dolichandra_cynanchoides:0.0119226397)100/100/100/100:0.0068260008)100/100/100/100:0.0210217505)100/100/100/100:0.0039087681,Campsis_radicans:0.0219490414)100/100/100/100:0.0094446051,Martynia_annua:0.0127022579)99/74/99.2/80:0.0006204219)95.9/88/95.6/95:0.0002408616)100/100/99.2/100:0.0012594772)99.9/100:0.0021120943,((((Aragoa_cleefii:0.0435619402,Digitalis_grandiflora:0.0215240178)100/100/100/100:0.0116072434,Callitriche_cophocarpa:0.0500697263)100/100/100/100:0.0054442286,((Antirrhinum_majus:0.0183906305,Chaenorhinum_minus:0.0172836239)100/100/100/100:0.0042723946,Cymbalaria_muralis:0.0136787231)100/100/100/100:0.0086866185)100/100/100/100:0.0055562817,((Bacopa_monnieri:0.0289296230,(Deinostema_violacea:0.0345025934,Adenosma_bracteosa:0.0128573266)100/100/100/100:0.0078773917)100/100/100/100:0.0169033911,Angelonia_angustifolia:0.0348896232)100/100/100/100:0.0018331781)100/100/100/100:0.0017326474)100/100/100/100:0.0477278292,(((((((((((Arbutus_unedo:0.0188121018,((((Monotropa_hypopitys:0.0390928627,Pityopus_californicus:0.0291307865)100/100/100/100:0.0378638874,(Allotropa_virgata:0.0815874933,Hemitomes_congestum:0.0617213522)79.9/80/76/78:0.0084473911)100/100/100/100:0.0246607569,(((Monotropa_uniflora:0.1861439942,Monotropa_callistoma:0.0879352781)100/100/100/100:0.0534129150,Monotropastrum_humile:0.1196256421)100/100/100/100:0.1487051948,Monotropsis_odorata:0.1791636295)100/100/100/100:0.0481892726)100/100/100/100:0.0785646521,Pterospora_andromedea:0.1313054537)100/100/100/100:0.0259775293)100/100/100/100:0.0089299780,(Pyrola_rotundifolia:0.0070067078,(Pyrola_atropurpurea:0.0038757342,Pyrola_decorata:0.0000023380)100/100/100/100:0.0182695803)100/100/100/100:0.0639715773)100/100/35.1/60:0.0027319939,((((Gaultheria_griffithiana:0.0018041624,Gaultheria_pyrolifolia:0.0024968732)100/100/100/100:0.0010423209,Gaultheria_sinensis:0.0032855149)100/100/100/100:0.0099092527,(Vaccinium_angustifolium:0.0027713574,((Agapetes_guangxiensis:0.0066613801,Agapetes_lacei:0.0045111645)100/100/100/100:0.0027792096,(Agapetes_obovata:0.0036499767,Vaccinium_supracostatum:0.0037870537)100/100/100/100:0.0030533271)100/100/100/100:0.0020705814)100/100/100/100:0.0138741840)100/100/100/100:0.0266647039,(Rhododendron_schlippenbachii:0.0020484777,Rhododendron_spinuliferum:0.0022776130)100/100/100/100:0.0303331243)100/100/100/100:0.0212976877)50.9/67/100/100:0.0221774565,(Enkianthus_nudipes:0.0027350698,(Enkianthus_cernuus:0.0007344032,Enkianthus_sikokianus:0.0007287231)100/100/100/100:0.0036615826)100/100/100/100:0.0643095376)100/100/100/100:0.0125441120,((((Actinidia_tetramera:0.0095132199,(Actinidia_chrysantha:0.0037180582,Actinidia_suberifolia:0.0013006053)100/100/100/100:0.0022126937)100/100/100/100:0.0044887149,Clematoclethra_scandens:0.0068744399)100/100/100/100:0.0100175418,(Saurauia_napaulensis:0.0019911770,Saurauia_polyneura:0.0001368720)100/100/100/100:0.0166185442)100/100/100/100:0.0396631818,Roridula_gorgonias:0.0785713585)100/100/100/100:0.0093244681)100/100/78.5/62:0.0063835411,(Clethra_delavayi:0.0006606148,(Clethra_fargesii:0.0004348521,Clethra_petelotii:0.0006430674)17.1/45/32.1/49:0.0000474272)100/100/100/100:0.0178641531)99.6/56/35.7/37:0.0006247335,(((Sarracenia_alata:0.0000010003,Sarracenia_leucophylla:0.0000664586)100/100/100/100:0.0117209624,Heliamphora_minor:0.0057279966)100/100/100/100:0.0083966574,Darlingtonia_californica:0.0135256430)100/100/100/100:0.0111130706)100/56/100/100:0.0034550449,(Symplocos_coreana:0.0283038989,Styrax_rugosus:0.0300085963)100/100/100/100:0.0022208046)99.4/99/14.5/42:0.0002208319,Camellia_sinensis:0.0230658269)8.1/37/99/99:0.0007659213,Pentaphylax_euryoides:0.0241708250)89/73/86.2/78:0.0006386582,(Diospyros_kaki:0.0246720586,Primula_veris:0.0768317271)100/100/69.9/75:0.0020088610)76.4/72/100/100:0.0177173544)100/100/100/100:0.0148591161,((((Nepenthes_khasiana:0.0032982776,((Nepenthes_mirabilis:0.0001771883,Nepenthes_gracilis:0.0007961880)100/100/100/100:0.0027201010,Nepenthes_ventricosa_x_Nepenthes_alata:0.0039369022)100/100/100/100:0.0016785084)100/100/100/100:0.0324482621,((((Drosera_peltata:0.0078606362,Drosera_erythrorhiza:0.0106736259)100/100/100/100:0.0723263954,(Drosera_rotundifolia:0.0103713529,Drosera_capensis:0.0192577812)100/100/100/100:0.1096314211)100/100/100/100:0.0217970508,(Drosera_regia:0.0176367107,(Aldrovanda_vesiculosa:0.0446125566,Dionaea_muscipula:0.0702145204)100/100/100/100:0.0063706040)13/53/67.9/71:0.0037148442)100/100/100/100:0.0909340395,(Drosophyllum_lusitanicum:0.0458770494,(Ancistrocladus_tectorius:0.0084974188,((Dioncophyllum_thollonii:0.0156778716,Triphyophyllum_peltatum:0.0160406727)94.6/93/97/93:0.0024876791,Habropetalum_dawei:0.0193804167)100/100/100/100:0.0223955297)100/100/100/100:0.0079301624)100/100/100/100:0.0139117855)48.4/66/85.5/87:0.0027217239)100/100/100/100:0.0112176790,(((((Plumbago_auriculata:0.0073365141,Plumbago_zeylanica:0.0077051539)100/100/100/100:0.0191721698,(Ceratostigma_plumbaginoides:0.0023051677,(Ceratostigma_griffithii:0.0025316227,Ceratostigma_minus:0.0022071143)99.2/99/99.7/100:0.0008336613)100/100/100/100:0.0568706586)100/100/100/100:0.0309421550,((Limonium_tenellum:0.0122361317,Limonium_tetragonum:0.0038483573)100/100/100/100:0.0201731037,Limonium_bonduellei:0.0391490485)100/100/100/100:0.0460599441)100/100/100/100:0.0375737409,((((Calligonum_klementzii:0.0130148517,(((((Muehlenbeckia_australis:0.0036608751,Fallopia_aubertii:0.0086322163)100/100/100/100:0.0020034927,Pleuropterus_angulatus:0.0053746490)100/100/100/100:0.0013350789,Atraphaxis_spinosa:0.0173497813)100/100/100/100:0.0058563095,Knorringia_sibirica:0.0157083081)100/100/100/100:0.0053591483,Oxyria_digyna:0.0224527245)99.1/100/99.8/100:0.0010662986)100/100/100/100:0.0041007663,Fagopyrum_esculentum:0.0342956166)100/100/100/100:0.0020426728,((Koenigia_forrestii:0.0375063011,(Polygonum_milletii:0.0032156062,Bistorta_ochotensis:0.0027493758)100/100/100/100:0.0195939861)100/100/100/100:0.0070442200,Persicaria_amphibia:0.0240539045)100/100/100/100:0.0050164665)100/100/100/100:0.0046835308,(Coccoloba_uvifera:0.0038338929,Eriogonum_grande:0.0293349622)100/100/100/100:0.0027973328)100/100/100/100:0.0256077069)100/100/100/100:0.0367230272,(((Reaumuria_trigyna:0.0053184147,Reaumuria_songarica:0.0054244716)100/100/100/100:0.0145274513,((Myricaria_paniculata:0.0053197636,Myricaria_elegans:0.0020093036)100/100/100/100:0.0087066055,(Tamarix_gracilis:0.0010542995,Tamarix_hispida:0.0005431337)100/100/100/100:0.0135039457)100/100/100/100:0.0094145797)100/100/100/100:0.0112733633,(Frankenia_laevis:0.0026882892,Frankenia_pulverulenta:0.0026477814)100/100/100/100:0.0564909726)100/100/100/100:0.0384155257)99.9/100/100/100:0.0024485257)100/100/100/100:0.0044522058,((((Kroenleinia_grusonii:0.0071086040,(Leuchtenbergia_principis:0.0097753589,Ferocactus_setispinus:0.0196930853)100/100/100/100:0.0040090858)100/100/100/100:0.0256192451,((Carnegiea_gigantea:0.0041286580,Cephalocereus_tetetzo:0.0057927677)100/100/100/100:0.0161008430,((Cleistocactus_hyalacanthus:0.0091795832,Echinopsis_candicans:0.0077154814)100/100/100/100:0.0080536390,Cereus_fernambucensis:0.0058301949)100/100/100/100:0.0298193364)100/100/100/100:0.0056402687)100/100/100/100:0.0200025344,(Consolea_rubescens:0.0033091426,(Airampoa_erectoclada:0.0027859553,Brasiliopuntia_schulzii:0.0016565640)100/100/89.3/88:0.0003582450)100/100/100/100:0.0217460107)93.9/91/100/100:0.0036897545,Leuenbergeria_portulacifolia:0.0097170543)100/100/100/100:0.0724913611)100/100/100/100:0.0241467884)99.7/99/99.9/100:0.0034996590,(((((Brunellia_trianae:0.0001517536,Brunellia_antioquensis:0.0001627621)100/100/100/100:0.0019429391,Brunellia_mexicana:0.0011644405)100/100/100/100:0.0156967253,Cephalotus_follicularis:0.0410147054)100/100/24.5/56:0.0008170783,((((Aristotelia_chilensis:0.0027382198,Aristotelia_fruticosa:0.0026189970)100/100/100/100:0.0059344022,Vallea_stipularis:0.0084711302)100/100/100/100:0.0052211868,(Sloanea_cordifolia:0.0003994183,Sloanea_longiaculeata:0.0004533587)100/100/100/100:0.0078853293)100/100/100/100:0.0022490877,((Elaeocarpus_angustifolius:0.0038318409,Elaeocarpus_braceanus:0.0031333160)100/100/100/100:0.0137375761,Crinodendron_patagua:0.0111874370)100/100/100/100:0.0042669563)100/100/100/100:0.0041942711)100/100/100/100:0.0048505053,(((Averrhoa_bilimbi:0.0039690253,Averrhoa_carambola:0.0040236043)100/100/100/100:0.0033940723,Biophytum_sensitivum:0.0493506149)100/100/100/100:0.0057200632,(((Oxalis_mollendoensis:0.0004616374,Oxalis_megalorrhiza:0.0002996479)100/100/100/100:0.0015084587,Oxalis_lomana:0.0018748510)100/100/100/100:0.0157197409,(Oxalis_triangularis:0.0055508636,Oxalis_articulata:0.0090504034)100/100/100/100:0.0038115386)100/100/100/100:0.0299819522)100/100/100/100:0.0241924088)17.8/52/100/100:0.0357209285)100/100/100/100:0.0441557547,Amborella_trichopoda:0.0913268139):0.0234126612,(((Tofieldia_ulleungensis:0.0002091541,Tofieldia_coccinea_var_kondoi:0.0001206056)100/100:0.0037720937,Tofieldia_yoshiiana_var_kanwonensis:0.0058874295)100/100:0.0105691790,Triantha_occidentalis:0.0098972671)100/100:0.0420506889)100/100:0.0321331596,(Rapatea_paludosa:0.0434392298,Paepalanthus_alpinus:0.1631832185)59.6/69/100/100:0.0073681746)100/100/100/100:0.0134904501,((((Brocchinia_acuminata:0.0016300965,Brocchinia_micrantha:0.0016574516)100/100/100/100:0.0012088553,(Brocchinia_hechtioides:0.0000180378,Brocchinia_reducta:0.0000010003)100/100/100/100:0.0050953414)100/100/99.9/100:0.0005402477,Brocchinia_tatei:0.0043927687)100/100/100/100:0.0018269343,Brocchinia_paniculata:0.0050400490)100/100/100/100:0.0024049055)100/100/100/100:0.0028180784,(((Cryptanthus_acaulis:0.0038035511,(Billbergia_horrida:0.0024380634,Aechmea_fasciata:0.0016004002)100/100/100/100:0.0010155223)100/100/100/100:0.0032822117,(Pitcairnia_breedlovei:0.0012079921,Pitcairnia_atrorubens:0.0018947934)100/100/100/100:0.0032585409)100/100/100/100:0.0013576009,Navia_igneosicola:0.0053295992)79.9/75/82.4/76:0.0000516565)100/100/100/100:0.0000769313,(Bakerantha_tillandsioides:0.0038912313,Hechtia_deceptrix:0.0023559705)100/100/100/100:0.0018659074)85.8/78/85.3/79:0.0015151827,((Catopsis_sessiliflora:0.0005444232,Catopsis_nutans:0.0006696485)100/100/100/100:0.0020468662,Catopsis_paniculata:0.0010501923)100/100/100/100:0.0062246307)100/100/100/100:0.0036326433)99.3/100/100/100:0.0010712572,Vriesea_vagans:0.0022664636)100/100/100/100:0.0002234519,Werauhia_vanhyningii:0.0020635313)100/100/99.7/100:0.0004000976,Zizkaea_tuerckheimii:0.0009379716)99.9/100/99.9/100;
+
+
+USER TREES
+----------
+
+See out/topotest295b.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -1802891.433       0    0.24 +  0.583 +      1 +      0.24 +        1 + 
+  2 -1802900.122   8.689   0.376 +  0.418 +  0.517 +     0.375 +    0.437 + 
+  3 -1802912.453   21.02  0.0044 - 0.0185 -  0.414 +    0.0049 -   0.0429 - 
+  4 -1802899.789  8.3559   0.154 +  0.283 +  0.637 +     0.154 +    0.342 + 
+  5 -1802893.696  2.2629   0.226 +  0.417 +  0.795 +     0.225 +    0.495 + 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t out/topotest295b.treefile -p out/topotest295b.best_model.nex
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s concat.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s concat.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sun Nov 15 12:35:40 2026
+Total CPU time used: 339 seconds (0h:5m:38s)
+Total wall-clock time used: 52.6 seconds (0h:0m:52s)
+

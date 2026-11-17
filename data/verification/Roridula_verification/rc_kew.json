@@ -1,0 +1,91 @@
+{
+ "reads": 3682553,
+ "fu:ndhF": {
+  "mean_depth": 98.5,
+  "frac_bp_covered": 0.493,
+  "bp_where_majority_of_reads_disagree": 92,
+  "pct_bp_disagree": 4.13,
+  "reads": 1563,
+  "frac_reads_ge99": 0.0
+ },
+ "fu:ndhD": {
+  "mean_depth": 844.8,
+  "frac_bp_covered": 1.0,
+  "bp_where_majority_of_reads_disagree": 110,
+  "pct_bp_disagree": 7.23,
+  "reads": 8756,
+  "frac_reads_ge99": 0.0
+ },
+ "fu:ndhG": {
+  "mean_depth": 953.5,
+  "frac_bp_covered": 1.0,
+  "bp_where_majority_of_reads_disagree": 38,
+  "pct_bp_disagree": 7.16,
+  "reads": 3650,
+  "frac_reads_ge99": 0.0
+ },
+ "fu:SSC": {
+  "mean_depth": 428.5,
+  "frac_bp_covered": 0.578,
+  "bp_where_majority_of_reads_disagree": 691,
+  "pct_bp_disagree": 3.82,
+  "reads": 53366,
+  "frac_reads_ge99": 0.148
+ },
+ "fu:LSC": {
+  "mean_depth": 588.4,
+  "frac_bp_covered": 1.0,
+  "bp_where_majority_of_reads_disagree": 87,
+  "pct_bp_disagree": 0.1,
+  "reads": 332186,
+  "frac_reads_ge99": 0.942
+ },
+ "fu:junction_spanning_reads(>=99%,\u00b140bp)": {
+  "LSC/IRb": 212
+ },
+ "chang:ndhF": {
+  "mean_depth": 555.4,
+  "frac_bp_covered": 1.0,
+  "bp_where_majority_of_reads_disagree": 12,
+  "pct_bp_disagree": 0.54,
+  "reads": 8991,
+  "frac_reads_ge99": 0.785
+ },
+ "chang:ndhD": {
+  "mean_depth": 1126.0,
+  "frac_bp_covered": 1.0,
+  "bp_where_majority_of_reads_disagree": 0,
+  "pct_bp_disagree": 0.0,
+  "reads": 12483,
+  "frac_reads_ge99": 0.965
+ },
+ "chang:ndhG": {
+  "mean_depth": 1130.8,
+  "frac_bp_covered": 1.0,
+  "bp_where_majority_of_reads_disagree": 0,
+  "pct_bp_disagree": 0.0,
+  "reads": 5147,
+  "frac_reads_ge99": 0.974
+ },
+ "chang:SSC_IRexp": {
+  "mean_depth": 1064.2,
+  "frac_bp_covered": 1.0,
+  "bp_where_majority_of_reads_disagree": 19,
+  "pct_bp_disagree": 0.09,
+  "reads": 156885,
+  "frac_reads_ge99": 0.902
+ },
+ "chang:LSC": {
+  "mean_depth": 588.4,
+  "frac_bp_covered": 1.0,
+  "bp_where_majority_of_reads_disagree": 91,
+  "pct_bp_disagree": 0.11,
+  "reads": 332281,
+  "frac_reads_ge99": 0.935
+ },
+ "chang:junction_spanning_reads(>=99%,\u00b140bp)": {
+  "SSC/IRb": 268,
+  "LSC/IRa": 212,
+  "IRa/SSC": 128
+ }
+}

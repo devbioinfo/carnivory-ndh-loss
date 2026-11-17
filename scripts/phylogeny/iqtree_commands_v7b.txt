@@ -1,0 +1,5 @@
+[11:03] start c_SR
+[12:34] done  c_SR
+[12:34] start topotest295b
+[12:35] done  topotest295b
+All done 12:35. Upload: zip -r out_v7b.zip out/c_SR.* out/topotest295b.* logs/c_SR.log logs/topotest295b.log run_v7b.txt

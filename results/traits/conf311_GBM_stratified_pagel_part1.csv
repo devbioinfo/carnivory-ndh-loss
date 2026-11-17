@@ -1,0 +1,4 @@
+"test","n_tips","n_factor","n_lost_factor","n_lost_other","LR","p","ratio"
+"CAM vs C3, autotrophs only",185,11,8,2,7.99670935658531,0.0183457988115658,22.9064476205644
+"aquatic vs not, autotrophs only",185,12,1,9,3.08931281746844,0.213385175911459,13.7875134339941
+"wet habitat vs not, autotrophs only",185,26,1,9,2.54246009348266,0.280486398121293,7.87595021995804

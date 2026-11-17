@@ -1,0 +1,19 @@
+species,column,old,new,decision,status,source
+Roridula gorgonias,nutrition,carnivorous (indirect digestion via mutualist bugs),"carnivorous (indirect, bug-mediated)",RETAIN MAIN + SENSITIVITY,ACCEPT,Roridula_PMC2729641
+Triphyophyllum peltatum,nutrition,"carnivorous (facultative, juvenile leaves)","carnivorous (facultative, transient)",RETAIN MAIN + SENSITIVITY,ACCEPT,Triphyophyllum_PMC10731798
+Brocchinia acuminata,nutrition_conf,check,high,ACCEPT,ACCEPT,Givnish1997
+Brocchinia tatei,nutrition,autotrophic,autotrophic (tank epiphyte),ACCEPT PROVISIONALLY: non-carnivorous tank epiphyte,PROVISIONAL,Givnish1997
+Brocchinia tatei,nutrition_conf,check,medium,ACCEPT PROVISIONALLY,PROVISIONAL,Givnish1997
+Brocchinia tatei,habitat,terrestrial,epiphyte,tank epiphyte (Givnish1997),PROVISIONAL,Givnish1997
+Lathraea japonica,nutrition_conf,medium,high,ACCEPT,ACCEPT,Lathraea_PMC12724003
+Lathraea squamaria,nutrition_conf,medium,high,ACCEPT,ACCEPT,Lathraea_PMC12724003
+Pyrola rotundifolia,nutrition_conf,medium,high,SPLIT EVIDENCE: direct isotopic support,ACCEPT,Tedersoo2007
+Pyrola atropurpurea,nutrition_conf,medium,check,"SPLIT EVIDENCE: genus-inferred, verify species isotopes",PROVISIONAL,Tedersoo2007
+Pyrola decorata,nutrition_conf,medium,check,"SPLIT EVIDENCE: genus-inferred, verify species isotopes",PROVISIONAL,Tedersoo2007
+Utricularia cucullata,habitat_conf,check,high,ACCEPT aquatic,ACCEPT,review_WFO/NCparks/Tenuicaulis2022
+Utricularia olivacea,habitat_conf,check,high,ACCEPT aquatic,ACCEPT,review_WFO/NCparks/Tenuicaulis2022
+Utricularia tenuicaulis,habitat_conf,check,high,ACCEPT aquatic,ACCEPT,review_WFO/NCparks/Tenuicaulis2022
+Utricularia nephrophylla,habitat_conf,check,high,ACCEPT terrestrial/lithophytic,ACCEPT,POWO
+Utricularia longifolia,habitat_conf,check,medium,PROVISIONAL terrestrial/lithophytic (mixed habit),PROVISIONAL,POWO
+Tillandsia rubroviolacea,photosynthesis,CAM or C3 (species-specific),unknown (CAM vs C3),LEAVE UNKNOWN,ACCEPT,Crayn2015
+Pseudalcantarea viridiflora,photosynthesis_conf,check,medium,PROVISIONAL C3; verify species measurement/synonymy,PROVISIONAL,Crayn2015

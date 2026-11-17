@@ -1,0 +1,4 @@
+"test","n_tips","n_factor","n_lost_factor","n_lost_other","LR","p","ratio"
+"carnivory vs autotrophy, wet-habitat taxa only",69,43,28,1,19.492020305371,5.85277151490324e-05,4.55553301110054
+"carnivory vs autotrophy, non-wet taxa only",179,20,10,9,17.2394761273643,0.00018050752998697,57.416771282773
+"carnivory vs autotrophy, excluding aquatic and CAM taxa",210,48,32,1,40.2566346200035,1.81293762511971e-09,89.0065769725831

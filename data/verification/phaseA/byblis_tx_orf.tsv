@@ -1,0 +1,25 @@
+gene	ref_len	transcript	query_cov	pident	frameshift_indels	inframe_indels	internal_stops	call
+ndhA	1092	NODE_47_length_551_cov_3.125984_g38_i0	0.41	89.910	0	0	1	disrupted
+ndhB	1533	NODE_7_length_2167_cov_659.667608_g4_i0	0.51	98.327	5	1	2	disrupted
+ndhC	363	NODE_82_length_326_cov_3.749117_g73_i0	0.76	91.608	0	1	0	intact over covered part
+ndhD	1503	NODE_22_length_1020_cov_6.451382_g16_i0	0.29	87.442	3	2	1	disrupted
+ndhE	306		0					absent
+ndhF	2238	NODE_17_length_1096_cov_12.064577_g11_i0	0.42	89.031	3	0	10	disrupted
+ndhG	537	NODE_37_length_637_cov_26.289562_g29_i0	1.00	92.164	0	1	0	intact ORF
+ndhH	1182	NODE_49_length_515_cov_6.120763_g40_i0	0.44	91.845	0	0	1	disrupted
+ndhI	516	NODE_85_length_313_cov_1.662963_g76_i0	0.60	92.208	0	1	1	disrupted
+ndhJ	477	NODE_33_length_700_cov_4.030441_g26_i0	1.00	95.388	1	0	0	disrupted
+ndhK	678	NODE_28_length_852_cov_2.266996_g21_i0	0.99	93.027	1	0	1	disrupted
+psaA	2253	NODE_4_length_5130_cov_44.526243_g1_i0	1.00	96.582	0	0	0	intact ORF
+psaB	2205	NODE_4_length_5130_cov_44.526243_g1_i0	1.00	96.463	0	0	0	intact ORF
+psbA	1059	NODE_15_length_1258_cov_139.953909_g9_i0	1.00	96.506	0	0	0	intact ORF
+psbB	1527	NODE_1_length_10820_cov_151.164331_g0_i0	1.00	94.565	0	0	0	intact ORF
+psbC	1422	NODE_5_length_2740_cov_16.576567_g2_i0	1.00	96.765	0	0	0	intact ORF
+psbD	1062	NODE_13_length_1560_cov_16.272907_g2_i1	1.00	97.081	0	0	0	intact ORF
+rbcL	1434	NODE_12_length_1661_cov_36.864648_g7_i0	1.00	96.374	0	0	0	intact ORF
+atpA	1524	NODE_6_length_2574_cov_184.099960_g3_i0	1.00	95.866	0	0	0	intact ORF
+atpB	1497	NODE_8_length_2156_cov_27.430194_g5_i0	1.00	94.656	0	0	0	intact ORF
+petA	963	NODE_9_length_1957_cov_5.293626_g6_i0	1.00	94.808	0	0	0	intact ORF
+ycf3	507	NODE_59_length_433_cov_10.979487_g50_i0	0.76	97.389	3	0	7	disrupted
+rpoB	3213	NODE_14_length_1411_cov_3.271199_g8_i0	0.30	96.222	0	0	0	intact over covered part
+matK	1527	NODE_96_length_274_cov_2.826840_g87_i0	0.18	88.321	0	0	0	intact over covered part

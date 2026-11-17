@@ -1,0 +1,26 @@
+topology	calibration	n_tips	families_or_sister
+ML	C1	124	
+ML	C2	123	
+ML	C3	21	Actinidiaceae,Clethraceae,Ericaceae,Roridulaceae,Sarraceniaceae
+ML	C4	4	sister: Actinidiaceae
+ML	C5	2	sister: Droseraceae
+SR	C1	124	
+SR	C2	123	
+SR	C3	21	Actinidiaceae,Clethraceae,Ericaceae,Roridulaceae,Sarraceniaceae
+SR	C4	4	sister: Actinidiaceae
+SR	C5	2	sister: Droseraceae
+H4	C1	124	
+H4	C2	123	
+H4	C3	21	Actinidiaceae,Clethraceae,Ericaceae,Roridulaceae,Sarraceniaceae
+H4	C4	4	sister: Actinidiaceae
+H4	C5	2	sister: Droseraceae
+H5	C1	124	
+H5	C2	123	
+H5	C3	21	Actinidiaceae,Clethraceae,Ericaceae,Roridulaceae,Sarraceniaceae
+H5	C4	4	sister: Actinidiaceae
+H5	C5	2	sister: Droseraceae
+H6	C1	124	
+H6	C2	123	
+H6	C3	21	Actinidiaceae,Clethraceae,Ericaceae,Roridulaceae,Sarraceniaceae
+H6	C4	4	sister: Actinidiaceae
+H6	C5	2	sister: Droseraceae
