@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite it as below."
 title: "Carnivorous plants lose the chloroplast NDH complex repeatedly, irreversibly and at parasite-like rates: code, data and results"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-18
 license: MIT
 doi: 10.5281/zenodo.24325802
