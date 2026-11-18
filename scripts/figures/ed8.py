@@ -81,8 +81,8 @@ for g in ['autotrophic','mycoheterotrophic','parasitic','carnivorous']:
     s=[r for r in d if grp(r)==g and r['nfun']]
     x=np.array([float(r['nfun']) for r in s])+rng.uniform(-.22,.22,len(s));y=[float(r['len']) for r in s]
     ax.scatter(x,y,s=9 if g!='autotrophic' else 6,color=C[g],edgecolor='white',lw=0.3,alpha=0.9 if g!='autotrophic' else 0.6,label=f'{g.capitalize()} (n = {len(s)})',zorder=3 if g!='autotrophic' else 2)
-xx=np.array([0,11]);ax.plot(xx,143.82+1.113*xx,color=INK,lw=1)
-ax.text(0.97,0.04,'PGLS ($\\lambda$ = 1.00, n = 311), parasitism and\nmycoheterotrophy as covariates:\n+1.11 kb per intact $ndh$ gene ($P$ = 1.5 × 10$^{-5}$)\ncarnivory × $ndh$ interaction $P$ = 0.29',transform=ax.transAxes,fontsize=5.6,va='bottom',ha='right')
+xx=np.array([0,11]);ax.plot(xx,145.76+1.122*xx,color=INK,lw=1)
+ax.text(0.97,0.04,'PGLS ($\\lambda$ = 1.00, n = 310), parasitism and\nmycoheterotrophy as covariates:\n+1.12 kb per intact $ndh$ gene ($P$ = 1.4 × 10$^{-5}$)\ncarnivory × $ndh$ interaction $P$ = 0.30',transform=ax.transAxes,fontsize=5.6,va='bottom',ha='right')
 ax.set_xlabel('Intact $ndh$ genes (of 11)');ax.set_ylabel('Plastome length (kb)');ax.set_xticks([0,3,6,9,11])
 ax.legend(loc='upper left',bbox_to_anchor=(0.2,1.02),fontsize=5.6,handletextpad=0.2,borderaxespad=0,markerscale=1.3)
 ax.set_ylim(0,ax.get_ylim()[1]);panel(ax,'d')
