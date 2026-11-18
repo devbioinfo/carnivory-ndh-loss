@@ -1,0 +1,11 @@
+internal nodes 310; fixed 123; smoothed 187; root 137.88 Ma
+correlated lambda=0.1: PHIIC=1695.2  median |dAge| 0.00 Myr (0.0%), 95th pct 0.00 Myr, max 0.00 Myr; r=1.0000
+correlated lambda=10: PHIIC=1695.2  median |dAge| 0.02 Myr (0.1%), 95th pct 0.09 Myr, max 0.14 Myr; r=1.0000
+relaxed lambda=1: PHIIC=1707.3  median |dAge| 0.44 Myr (2.8%), 95th pct 10.70 Myr, max 18.07 Myr; r=0.9786
+discrete lambda=1: PHIIC=501.7  median |dAge| 8.23 Myr (61.5%), 95th pct 30.37 Myr, max 63.72 Myr; r=0.7729
+
+relaxed PHIIC 1707.275 conv msg: relative convergence (4) 
+discrete PHIIC 501.664 conv msg: relative convergence (4) 
+main_correlated_l1  carnivory LR 43.2 P 4.12e-10 ratio 66 | parasitism LR 20.1 P 4.29e-05 ratio 63
+relaxed_l1  carnivory LR 43.0 P 4.68e-10 ratio 67 | parasitism LR 19.7 P 5.21e-05 ratio 62
+discrete_l1  carnivory LR 40.2 P 1.83e-09 ratio 55 | parasitism LR 17.6 P 1.48e-04 ratio 28
